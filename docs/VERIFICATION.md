@@ -3,7 +3,7 @@
 Checked locally on 2026-10-04 against the production static export. The browser suite runs again on GitHub Actions after every push; see [workflow runs](https://github.com/marciobarrios/madeinhonduras-next/actions).
 
 - ESLint and TypeScript: pass.
-- Four content tests: valid references/slugs/covers; local image dimensions and absent EXIF/XMP; unique legacy routes; Markdown sanitization.
+- Five content/image tests: valid references/slugs/covers; local image dimensions and absent EXIF/XMP; unique legacy routes; Markdown sanitization; correctly oriented, metadata-free variants from an EXIF-rotated local master.
 - Production build: 751 generated entries, including 746 content URLs plus framework/metadata outputs. Every content route exists on disk and all rendered image/srcset references resolve to local files. The postbuild audit enforces this on CI.
 - Twelve Playwright cases across desktop Chromium (1440 × 1000) and mobile Chromium (iPhone 13 emulation): all nine albums render; pages and portrait; no overflow; local-only resources in the primary journey; captions; arrows; Escape; Back/Forward; focus restoration; repeated opening; direct legacy and hash URLs; refresh; both missing-source records; public archive page 2; no-JavaScript navigation.
 - Axe WCAG 2 A/AA and 2.1 AA automated scans: home, Roatán, Why, Who and the open viewer. No violations in the scanned states. This is automated coverage, not a full accessibility certification.

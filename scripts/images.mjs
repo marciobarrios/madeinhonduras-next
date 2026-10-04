@@ -1,8 +1,7 @@
 /** Generate local, EXIF-free display variants from public Koken derivatives or local masters. */
 import { mkdir, readFile, writeFile, access } from "node:fs/promises";
-import { createHash } from "node:crypto";
 import path from "node:path";
-import sharp from "sharp";
+import { generateVariants } from "./image-variants.mjs";
 import { loadContent } from "../src/lib/content.mjs";
 const { photos } = loadContent();
 const inventory = JSON.parse(
@@ -12,7 +11,6 @@ const assets = [
   ...photos.filter((p) => p.status !== "missing-source"),
   inventory.portrait,
 ];
-const sizes = [480, 960, 1600, 2048];
 await mkdir(".migration-cache/images", { recursive: true });
 await mkdir("public/images", { recursive: true });
 const manifest = {};
@@ -61,42 +59,7 @@ for (const [index, photo] of assets.entries()) {
     source = Buffer.from(await res.arrayBuffer());
     await writeFile(cache, source);
   }
-  const meta = await sharp(source).metadata();
-  const hash = createHash("sha256")
-    .update(source)
-    .update("webp-q82-v1")
-    .digest("hex")
-    .slice(0, 12);
-  const widths = [...new Set(sizes.map((w) => Math.min(w, meta.width)))];
-  const variants = [];
-  for (const width of widths) {
-    const dest = `/images/${photo.id}-${hash}-${width}.webp`;
-    let info;
-    try {
-      const existing = await sharp("public" + dest).metadata();
-      const bytes = (await readFile("public" + dest)).length;
-      info = { width: existing.width, height: existing.height, size: bytes };
-    } catch {
-      info = await sharp(source)
-        .rotate()
-        .resize({ width, withoutEnlargement: true })
-        .webp({ quality: 82, effort: 5 })
-        .toFile("public" + dest);
-    }
-    variants.push({
-      src: dest,
-      width: info.width,
-      height: info.height,
-      bytes: info.size,
-    });
-  }
-  const largest = variants.at(-1);
-  manifest[photo.id] = {
-    width: largest.width,
-    height: largest.height,
-    src: largest.src,
-    srcSet: variants,
-  };
+  manifest[photo.id] = await generateVariants(source, photo.id);
   if ((index + 1) % 20 === 0)
     console.log(`Prepared ${index + 1}/${assets.length} photos`);
 }
