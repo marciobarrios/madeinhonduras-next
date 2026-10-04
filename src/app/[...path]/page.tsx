@@ -136,23 +136,6 @@ export default async function ContentPage({
       </>
     );
   }
-  if (entry.kind === "photo" && entry.photo!.status === "missing-source") {
-    return (
-      <>
-        <SiteHeader />
-        <main id="main" className="site-main text-page">
-          <h1>{entry.photo!.title}</h1>
-          <p>
-            This photograph is currently unavailable. Its image could not be
-            retrieved from the previous website’s public gallery.
-          </p>
-          <Link className="text-link" href="/">
-            Explore the places
-          </Link>
-        </main>
-      </>
-    );
-  }
   const album = entry.album!;
   if (entry.kind === "album") {
     const index = content.albums.indexOf(album);

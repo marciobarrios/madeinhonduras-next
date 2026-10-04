@@ -41,18 +41,15 @@ test("Content references, covers, slugs and ordering are valid", () => {
     content.photos.map((p) => p.slug).sort(),
   );
   for (const original of inventory.photos)
-    assert.ok(
+    assert.equal(
       content.photos.some((p) => p.slug === original.slug),
-      "Preserve imported slug " + original.slug,
+      original.status !== "missing-source",
+      "Publish only available imported photographs: " + original.slug,
     );
   assert.equal(content.pages.length, 2);
 });
 test("Public metadata and local image variants are complete; no originals/GPS are shipped", async () => {
   for (const photo of [...content.photos, inventory.portrait]) {
-    if (photo.status === "missing-source") {
-      assert.equal(photo.width, 0);
-      continue;
-    }
     const image = images[photo.id];
     assert.ok(image, photo.slug);
     assert.ok(photo.title);
@@ -78,10 +75,11 @@ test("Legacy photo URLs resolve uniquely and point to the correct album/photo", 
   assert.equal(new Set(paths).size, paths.length);
   for (const photo of inventory.photos) {
     const original = new URL(photo.sourcePage).pathname;
-    assert.ok(paths.includes(original));
-    assert.ok(paths.includes(original + "lightbox/"));
-    assert.ok(paths.includes(`/content/${photo.slug}/`));
-    assert.ok(paths.includes(`/content/${photo.slug}/lightbox/`));
+    const published = photo.status !== "missing-source";
+    assert.equal(paths.includes(original), published);
+    assert.equal(paths.includes(original + "lightbox/"), published);
+    assert.equal(paths.includes(`/content/${photo.slug}/`), published);
+    assert.equal(paths.includes(`/content/${photo.slug}/lightbox/`), published);
   }
 });
 test("Markdown keeps links and structure but drops executable content", () => {

@@ -11,7 +11,6 @@ export type ImageAsset = {
   srcSet: Variant[];
 };
 export type Photo = {
-  status?: "missing-source";
   slug: string;
   id: string;
   title: string;

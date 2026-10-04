@@ -2,11 +2,11 @@
 
 A static Next.js photography archive for [madeinhonduras.net](http://madeinhonduras.net/), replacing Koken/PHP with Markdown and local images. No CMS, database, login, API, subscription, runtime image optimizer or dependency on the old host is required to build or serve it.
 
-**Imported:** nine galleries containing 182 available photographs, both Why/Who pages and the author portrait. The public index also has two already-broken photo records; their URLs are preserved with an unavailable message. The originals and database still need a separate backup before DigitalOcean is retired. See [migration details](docs/MIGRATION.md).
+**Imported:** nine galleries containing 182 available photographs, both Why/Who pages and the author portrait. Two already-broken public-index records were removed at the owner’s request. The originals and database still need a separate backup before DigitalOcean is retired. See [migration details](docs/MIGRATION.md).
 
 ## Run locally
 
-Use Node.js 22.13 or later and npm. Dependencies are pinned in `package-lock.json`.
+Use Node.js 22.x (22.13 or later within that major) and npm. Dependencies are pinned in `package-lock.json`.
 
 ```sh
 npm ci
@@ -35,7 +35,7 @@ GitHub Actions performs the checks, build and browser tests on pushes and pull r
 - `content/pages/why.md`, `who.md`: the two text pages.
 - `content/albums/*.md`: title, short `summary`, `cover` photo slug, numeric `order`, ordered list of photo slugs, and longer Markdown description. The latter appears under “About this place”.
 - `content/photos/*.md`: photo title and provenance in frontmatter; the Markdown body is its caption. Do not change existing `slug` values unless you also create a redirect.
-- `content/archive.json`: all public photo slugs in the original public-index order. It powers the legacy `/content/` index.
+- `content/archive.json`: all published photo slugs in the original public-index order. It powers the legacy `/content/` index.
 - `content/images.json`: generated image metadata; do not edit by hand.
 
 Change the list under an album's `photos` to reorder it. A photograph may belong to more than one album; all memberships share one image asset. Covers must refer to a photo in the same album. The source snapshot in `migration/inventory.json` records the initial migration; keep it intact for comparison.
@@ -64,15 +64,15 @@ npm run build
 npm run test:e2e
 ```
 
-Commit the Markdown, archive list, generated `content/images.json` and new files in `public/images`. Don't commit the master. The image command reuses committed variants for imported photographs, so adding a new local photo does not need the old host. Changed local masters get new content hashes automatically. `npm run images -- --refresh` rebuilds imported images from the ignored source cache or, if unavailable, their public source URLs. For an existing photo, remove `status: missing-source` after supplying a recovered local master. The command generates WebP at 480, 960, 1600 and up to 2048 pixels wide without upscaling, strips EXIF/GPS/XMP, and uses content-hashed filenames. Keep an independent backup of originals and prior source masters: generated variants aren't archival backups.
+Commit the Markdown, archive list, generated `content/images.json` and new files in `public/images`. Don't commit the master. The image command reuses committed variants for imported photographs, so adding a new local photo does not need the old host. Changed local masters get new content hashes automatically. `npm run images -- --refresh` rebuilds imported images from the ignored source cache or, if unavailable, their public source URLs. The command generates WebP at 480, 960, 1600 and up to 2048 pixels wide without upscaling, strips EXIF/GPS/XMP, and uses content-hashed filenames. Keep an independent backup of originals and prior source masters: generated variants aren't archival backups.
 
 To add a place, copy an album file, choose a unique slug and order, add at least one photo and a valid cover, and fill its short description. No code changes are needed. Run the checks and build.
 
 ## Connect Vercel
 
 1. Import the private **personal** GitHub repository into Vercel.
-2. Use the Next.js preset, Node.js 22.x, `npm ci`, build command `npm run build`, and output directory `out`. These build/output settings are also in `vercel.json`. No environment variables are needed.
-3. Review the preview deployment at desktop/mobile sizes; check every album, captions, Why/Who and legacy photo links. Confirm the Network panel only loads local images/fonts/scripts. This implementation has not been deployed.
+2. Use the Next.js preset, Node.js 22.x, `npm ci`, and build command `npm run build`. Leave the Output Directory override disabled. Vercel’s Next.js builder reads its manifests from `.next` and detects `output: "export"` automatically; setting the override to `out` makes it look for manifests in the wrong directory. Local static hosting still serves `out/`. No environment variables are needed.
+3. Review the preview deployment at desktop/mobile sizes; check every album, captions, Why/Who and legacy photo links. Confirm the Network panel only loads local images/fonts/scripts.
 4. Add the apex and `www` domains only when ready. Use Vercel's current DNS instructions, select the apex as primary, and preserve unrelated DNS records.
 5. Follow the backup, cutover and retirement checklist in [MIGRATION.md](docs/MIGRATION.md) before removing anything from DigitalOcean.
 

@@ -32,13 +32,15 @@ test("places, galleries, local images and readable pages", async ({ page }) => {
   await page.getByRole("link", { name: "Who", exact: true }).click();
   await expect(page.getByRole("heading", { level: 1 })).toHaveText("Who");
   await expect(page.locator("main img")).toBeVisible();
-  expect(
-    await page
-      .locator("main img")
-      .evaluate(
-        (img: HTMLImageElement) => img.complete && img.naturalWidth > 0,
-      ),
-  ).toBe(true);
+  await expect
+    .poll(() =>
+      page
+        .locator("main img")
+        .evaluate(
+          (img: HTMLImageElement) => img.complete && img.naturalWidth > 0,
+        ),
+    )
+    .toBe(true);
   expect(errors).toEqual([]);
   expect(external).toEqual([]);
 });
@@ -141,7 +143,7 @@ test("static content remains navigable with JavaScript disabled", async ({
   await context.close();
 });
 
-test("every gallery and the broken-source records are handled", async ({
+test("every gallery renders and removed photographs return 404", async ({
   page,
 }) => {
   await page.goto("/");
@@ -170,12 +172,20 @@ test("every gallery and the broken-source records are handled", async ({
     ).toBe(true);
   }
   for (const slug of ["mg-2702", "mg-1286"]) {
-    await page.goto(`/content/${slug}/`);
-    await expect(page.locator("main")).toContainText("currently unavailable");
-    await expect(page.locator("main img")).toHaveCount(0);
+    for (const suffix of ["", "lightbox/"]) {
+      const response = await page.goto(`/content/${slug}/${suffix}`);
+      expect(response?.status()).toBe(404);
+      await expect(page.getByRole("heading", { level: 1 })).toHaveText(
+        "This place isn’t here.",
+      );
+    }
   }
   await page.goto("/content/page/2/");
   await expect(page.getByRole("heading", { level: 1 })).toHaveText(
     "All photographs",
   );
+  await expect(page.locator(".photo-count")).toHaveText(
+    "182 photographs · Page 2 of 2",
+  );
+  await expect(page.locator(".react-photo-album--link:visible")).toHaveCount(82);
 });

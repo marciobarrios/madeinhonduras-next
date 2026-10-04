@@ -2,7 +2,7 @@
 
 ## Scope and inventory (2026-10-04)
 
-This is a read-only public migration of Koken 0.19.0 / Axis 1.5.2. No CMS login, admin API, credentials, DNS change, deployment or DigitalOcean modification was used. Public HTTP worked; the site's HTTPS port refused connections. Do not enter CMS credentials over HTTP. The available tool set did not expose a usable 1Password login-item retrieval action; none was needed for the public import.
+This is a read-only public migration of Koken 0.19.0 / Axis 1.5.2. No CMS login, admin API, credentials, DNS change or DigitalOcean modification was used for the import. Public HTTP worked; the site's HTTPS port refused connections. Do not enter CMS credentials over HTTP. The available tool set did not expose a usable 1Password login-item retrieval action; none was needed for the public import.
 
 | Original place | Preserved path | Photographs |
 | --- | --- | ---: |
@@ -17,18 +17,9 @@ This is a read-only public migration of Koken 0.19.0 / Axis 1.5.2. No CMS login,
 | Jeanette Kawas National Park | `/places/punta-sal/` | 14 |
 | **All galleries** | | **182** |
 
-The public `/content/` index has 184 records. Two aren't members of a gallery and already have missing source files:
+The original public `/content/` index had 184 records. Two were outside every gallery and had no available public image: `mg-2702` (Koken ID `000076`) and `mg-1286` (`000064`). Both reported zero dimensions; all seven advertised derivative sizes returned HTTP 404 during the read-only investigation. Server originals and backups were not inspected.
 
-- `/content/mg-2702/`, original title `MG-2702.jpg`, Koken ID `000076`.
-- `/content/mg-1286/`, original title `MG-1286.JPG`, Koken ID `000064`.
-
-Both report `0 × 0` dimensions in Koken. The initial check received HTTP 404 for the advertised medium, large and huge derivatives; the follow-up checked all seven advertised sizes (`tiny`, `small`, `medium`, `medium_large`, `large`, `xlarge`, `huge`) using unauthenticated HEAD requests on 2026-10-04, and all 14 returned 404. An attempted GET of the huge `MG-1286.JPG` derivative also returned 404 during import. Their public detail pages remain available but contain no usable image data.
-
-Their Markdown records and page/lightbox URLs remain, with a clear unavailable message. They are omitted from grids, not represented by invented images or broken `<img>` placeholders. Neither is a member of one of the nine galleries. The public-index record count still includes them.
-
-**Recovery is unverified, not disproven.** This only establishes that the advertised public derivatives are unavailable. Original files were not inspected, so it does not establish that they are missing from the server or backups. Any valid recovered image copy can restore the display; originals are preferable for quality but are not strictly necessary. A secure, already-authorized DigitalOcean console/SSH session or an off-server backup could allow read-only inspection of the upload files and database. No such server access was used or established in this task. Admin regeneration would write to the old installation and is outside this read-only investigation.
-
-HTTPS connections to both `madeinhonduras.net/admin/` and `www.madeinhonduras.net/admin/` were refused on port 443. There is therefore no verified usable secure Koken admin route here. No passwords, token-bearing admin links, authentication changes or newly created access were used. Do not infer that an existing HTTP browser login makes authenticated HTTP requests secure.
+At the owner’s request, these two records were removed from the migrated Markdown, public index and route map. The new archive contains **182 photographs**. Their former photo and lightbox URLs return the normal 404 page. The original read-only inventory retains the historical records as provenance; do not reintroduce them when reviewing a fresh import.
 
 The Why/Who text is preserved in Markdown; the Who portrait is a separate available asset. All public album covers, membership and order match the source snapshot. Photo captions and publicly rendered exposure settings are retained. Public pages don't expose reliable dates for all images; timestamps encoded in Koken cache filenames are **not** treated as capture dates. Private/unlisted content, original EXIF and filesystem originals were not accessed or claimed to be migrated.
 
@@ -38,7 +29,7 @@ Authoritative provenance is in [`migration/inventory.json`](../migration/invento
 
 183 available images (182 photographs + portrait), **722** pre-generated WebP files, **128,748,706 bytes** (128.7 MB / 122.8 MiB). Portrait-oriented sources can be narrower than 1600/2048 pixels, so no upscaling or redundant variants are generated. Images are at quality 82, width 480/960/1600/up to 2048, with original aspect ratio and no embedded EXIF/GPS/XMP. Full-screen viewing uses the largest available derivative, not camera originals.
 
-The initial full export is approximately 227 MiB on disk, including all compatibility pages, HTML/RSC payloads, fonts and scripts. Ordinary visits download only responsive images they view, not the whole archive. Pre-generated files avoid image compute, but image requests still consume hosting bandwidth. Measure real Vercel transfer/request usage after launch. Vercel's 100 MB CLI source-upload limit is not a blanket generated-site size limit; this handoff uses Git import. No Vercel deployment or build has been executed here.
+The initial full export is approximately 227 MiB on disk, including all compatibility pages, HTML/RSC payloads, fonts and scripts. Ordinary visits download only responsive images they view, not the whole archive. Pre-generated files avoid image compute, but image requests still consume hosting bandwidth. Measure real Vercel transfer/request usage after launch. Vercel's 100 MB CLI source-upload limit is not a blanket generated-site size limit; this handoff uses Git import. Vercel build status and verification are recorded in [VERIFICATION.md](VERIFICATION.md).
 
 Normal builds and hosting require only committed assets. The ignored `.migration-cache/images` contains about 106 MiB of downloaded **Koken display derivatives**, not a backup of full-resolution originals.
 
@@ -57,7 +48,7 @@ To reconstruct image variants on a new machine, the committed variants already s
 
 ## URL compatibility
 
-[`migration/legacy-urls.csv`](../migration/legacy-urls.csv) maps **746** homepage, text, album, index and photo paths. Known paths are emitted as real static pages, including:
+[`migration/legacy-urls.csv`](../migration/legacy-urls.csv) maps **742** homepage, text, album, index and photo paths. Known paths are emitted as real static pages, including:
 
 - `/`, `/pages/why/`, `/pages/who/`
 - `/places/<album>/`
@@ -77,7 +68,7 @@ Before cutover:
 
 1. Use a secure authenticated server session or the DigitalOcean console to make a complete backup of the Koken database and site directory, including original uploads, custom assets, configuration and themes. Export all relevant DNS records separately. Do not send passwords to the HTTP admin page.
 2. Copy that backup off DigitalOcean and out of this repository. Keep two independent copies, record checksums and actually inspect/test the backup. A provider snapshot alone is insufficient for retiring the account.
-3. Locate the two broken source files if possible. Compare the full CMS export against the public inventory, especially for private/unlisted material and photos outside albums. Decide explicitly whether any additional material belongs on the public site.
+3. Compare the full CMS export against the public inventory, especially for private/unlisted material and photos outside albums. Decide explicitly whether any additional material belongs on the public site.
 4. Connect the private personal GitHub repository to Vercel, confirm a successful preview build, and review all galleries and pages. Check captions, image quality, mobile navigation, direct URLs, refresh, Back and Escape. Confirm no assets load from DigitalOcean.
 5. Check Vercel's current Hobby terms and limits. This was confirmed to be a personal photography archive. Set/check usage notifications and review actual transfer after launch. Keep the original host running during verification.
 
