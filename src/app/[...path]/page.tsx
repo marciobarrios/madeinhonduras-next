@@ -143,8 +143,8 @@ export default async function ContentPage({
         <main id="main" className="site-main text-page">
           <h1>{entry.photo!.title}</h1>
           <p>
-            This photograph is currently unavailable. Its original file could
-            not be recovered from the previous website.
+            This photograph is currently unavailable. Its image could not be
+            retrieved from the previous website’s public gallery.
           </p>
           <Link className="text-link" href="/">
             Explore the places

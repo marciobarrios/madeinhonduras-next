@@ -22,7 +22,13 @@ The public `/content/` index has 184 records. Two aren't members of a gallery an
 - `/content/mg-2702/`, original title `MG-2702.jpg`, Koken ID `000076`.
 - `/content/mg-1286/`, original title `MG-1286.JPG`, Koken ID `000064`.
 
-Both report `0 × 0` dimensions in Koken; the advertised medium, large and huge image URLs returned HTTP 404 on 2026-10-04. Their Markdown records and page/lightbox URLs remain, with a clear unavailable message. No substitute photographs were invented. Recover them from an original backup if possible. They aren't included as broken thumbnails in the photo index.
+Both report `0 × 0` dimensions in Koken. The initial check received HTTP 404 for the advertised medium, large and huge derivatives; the follow-up checked all seven advertised sizes (`tiny`, `small`, `medium`, `medium_large`, `large`, `xlarge`, `huge`) using unauthenticated HEAD requests on 2026-10-04, and all 14 returned 404. An attempted GET of the huge `MG-1286.JPG` derivative also returned 404 during import. Their public detail pages remain available but contain no usable image data.
+
+Their Markdown records and page/lightbox URLs remain, with a clear unavailable message. They are omitted from grids, not represented by invented images or broken `<img>` placeholders. Neither is a member of one of the nine galleries. The public-index record count still includes them.
+
+**Recovery is unverified, not disproven.** This only establishes that the advertised public derivatives are unavailable. Original files were not inspected, so it does not establish that they are missing from the server or backups. Any valid recovered image copy can restore the display; originals are preferable for quality but are not strictly necessary. A secure, already-authorized DigitalOcean console/SSH session or an off-server backup could allow read-only inspection of the upload files and database. No such server access was used or established in this task. Admin regeneration would write to the old installation and is outside this read-only investigation.
+
+HTTPS connections to both `madeinhonduras.net/admin/` and `www.madeinhonduras.net/admin/` were refused on port 443. There is therefore no verified usable secure Koken admin route here. No passwords, token-bearing admin links, authentication changes or newly created access were used. Do not infer that an existing HTTP browser login makes authenticated HTTP requests secure.
 
 The Why/Who text is preserved in Markdown; the Who portrait is a separate available asset. All public album covers, membership and order match the source snapshot. Photo captions and publicly rendered exposure settings are retained. Public pages don't expose reliable dates for all images; timestamps encoded in Koken cache filenames are **not** treated as capture dates. Private/unlisted content, original EXIF and filesystem originals were not accessed or claimed to be migrated.
 
