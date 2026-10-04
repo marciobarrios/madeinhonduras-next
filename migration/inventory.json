@@ -1,0 +1,3412 @@
+{
+  "importedAt": "2026-10-04T12:41:25.474Z",
+  "source": "http://madeinhonduras.net",
+  "scope": "All nine homepage albums, all pages of the public photo index, and Why/Who; not an authenticated CMS export.",
+  "albums": [
+    {
+      "slug": "roatan",
+      "title": "Roatán",
+      "count": 12,
+      "photos": [
+        "sunset-in-west-bay",
+        "palm-tree-in-west-bay",
+        "view-of-west-bay",
+        "sunset-in-west-bay-1",
+        "pool-of-henry-morgan-hotel",
+        "parrot-in-henry-morgan-hotel",
+        "west-bay-beach",
+        "west-bay-beach-1",
+        "child-in-a-dock-west-end",
+        "dolphin-in-anthoneys-key",
+        "dolphin-in-anthonys-key",
+        "dolphin-in-anthonys-key-1"
+      ],
+      "cover": "view-of-west-bay"
+    },
+    {
+      "slug": "cayos-cochinos",
+      "title": "Cayos Cochinos",
+      "count": 34,
+      "photos": [
+        "cayo-paloma",
+        "cayo-bolanos",
+        "an-incredible-tree-in-the-rock",
+        "one-private-cay",
+        "view-from-cayo-grande",
+        "chachauate-cay",
+        "chachauate-cay-1",
+        "a-boy-feeding",
+        "chachauate-cay-2",
+        "chachauate-cay-3",
+        "chachauate",
+        "a-fresh-lobster",
+        "fried-fish-with-red-beand-and-rice-and-fried-banana",
+        "a",
+        "garifuna-girl",
+        "garifuna-girl-1",
+        "a-group-of-garifunas",
+        "garifuna-boy",
+        "playing-with-a-group-of-garifunas",
+        "garifuna-girl-with",
+        "garifuna-cooking",
+        "garifunas-dancing-punta-1",
+        "incredible-sunset-in-chachauate",
+        "pelican-in-chachauate",
+        "a-couple-of-garifuna-boys-with-a-canoe",
+        "garigu",
+        "a-view-of-cayo-menor-from-cayo-grande",
+        "pink-boa-and",
+        "pink-boa-an-endemic-specie-from-cayos-cochinos",
+        "a-small-lizard-in-cayo-grande",
+        "a-garifuna-boy-enjoying-the-sunset-in-chachauate",
+        "garifuna-boy-fishing-a-lobster",
+        "coral-in-chachauate",
+        "coral-reef-around-chachauate"
+      ],
+      "cover": "chachauate-cay"
+    },
+    {
+      "slug": "pico-bonito",
+      "title": "Pico Bonito",
+      "count": 23,
+      "photos": [
+        "river-in-pico-bonito",
+        "pico-bonito-forest",
+        "ave-del-paraiso-plant",
+        "mushrooms-in-pico",
+        "centipede",
+        "a-big-spider",
+        "small",
+        "tiny-flower",
+        "waterfall-in-pico-bonito",
+        "waterfall-in-pico-bonito-1",
+        "waterfall-in-pico-bonito-2",
+        "waterfall-in-pico-bonito-3",
+        "a-big-and-long-tree",
+        "beautiful",
+        "a-beautiful-butterfly",
+        "small-frog",
+        "frog",
+        "big-leaf",
+        "pico-bonito-path",
+        "big-trees-fighting-for-the-sun-in-the-cloud-forest",
+        "bird-of-paradise-plant",
+        "at-the-entrance-of",
+        "pineapple-fields-around-pico-bonito"
+      ],
+      "cover": "waterfall-in-pico-bonito"
+    },
+    {
+      "slug": "utila",
+      "title": "Utila",
+      "count": 36,
+      "photos": [
+        "view-of",
+        "main-street-in-utila",
+        "there",
+        "incredible-sunset-in-utila",
+        "chepes-beach",
+        "chepes-beach-1",
+        "small-private-island-around-utila",
+        "bando-beach",
+        "utila-sunset",
+        "mayan-princess-pool",
+        "rubis-inn",
+        "cottage-in-rubis-inn",
+        "the",
+        "the-unbelievable-jade-seahorse-hotel",
+        "the-unbelievable-jade-seahorse-hotel-1",
+        "lighthouse-hotel-with-its-aweseome-views",
+        "utila-dive-center-dock",
+        "utila-dive-center-dock-1",
+        "utila-dive-center-dock-2",
+        "waiting-to-eat-some-baleadas",
+        "tranquilas-bardock",
+        "tranquila-bars-dock",
+        "bundu-cafe",
+        "water-cay",
+        "water-cay-a-cay-near-utila",
+        "sunjam-in-water-cay",
+        "sunjam-music-festival-in-water-cay",
+        "biking-around-utila",
+        "view-of-northern-utila",
+        "a-road-of-northern-utila",
+        "utila-girl",
+        "utila-woman",
+        "parrot-in-bando-beach",
+        "lizard",
+        "small-crab-in-bando-beach",
+        "coral-rocks"
+      ],
+      "cover": "utila-sunset"
+    },
+    {
+      "slug": "yojoa-lake-and-pulhapanzak",
+      "title": "Yojoa Lake and Pulhapanzak",
+      "count": 7,
+      "photos": [
+        "cottage-in-finca-las-glorias",
+        "a-big-grasshopper",
+        "view-of-yojoa-lake",
+        "a-great-place-to-relax",
+        "view-of-yojoa-lake-1",
+        "pulhapanzak-falls",
+        "canopy"
+      ],
+      "cover": "pulhapanzak-falls"
+    },
+    {
+      "slug": "la-ceiba",
+      "title": "La Ceiba and surroundings",
+      "count": 28,
+      "photos": [
+        "view-of-la-ceiba",
+        "view-of-la-ceiba-1",
+        "estero-la-ceiba",
+        "street-vendor-selling-avocados",
+        "rainbow-in-a",
+        "machuca-soup",
+        "corozal-boy",
+        "machuca-soup-corozal",
+        "typical-bus-of-la-ceiba",
+        "pico-bonito-and",
+        "rafting-in-cangrejal-river",
+        "rafting-in-cangrejal-river-1",
+        "jumping-over-cangrejal-river",
+        "small-watefall",
+        "small-waterfall-close-to-cangrejal-river",
+        "cangrejal-river",
+        "lying-before",
+        "canopy-in-glendas-paradise",
+        "beautiful-bird-in-cacao-lagoon",
+        "howler-monkey-in-cacao-lagoon",
+        "kayaking-in-howler-monkey-in-cacao-lagoon",
+        "cacao-lagoon",
+        "howler-monkey-in-cacao-lagoon-1",
+        "bats-in-cacao-lagoon",
+        "view-of-cacao-lagoon-close-to-the-caribbean-sea",
+        "unspoiled-beach-close",
+        "howler-monkey-in-cacao-lagoon-2",
+        "howler-monkey-in-cacao-lagoon-3"
+      ],
+      "cover": "rafting-in-cangrejal-river"
+    },
+    {
+      "slug": "copan",
+      "title": "Copán",
+      "count": 18,
+      "photos": [
+        "copan-ruinas-village",
+        "road-of-copan-ruinas-village",
+        "mayan-ruins-of-copan",
+        "simian-sculptures-possibly",
+        "stela-n-copan",
+        "hieroglyphic-stairway",
+        "stela-p-depicting-kak-chan-yopaat",
+        "the-west-court-of-copan",
+        "the-west-court-of-copan-1",
+        "main-group-of-copan",
+        "main-group-of-copan-1",
+        "main-group-of-copan-2",
+        "ballcourt-of-copan",
+        "detail-in-main-group",
+        "mayan-girl",
+        "mayan-girls",
+        "mayan-boy-selling-typical-handmade-dolls",
+        "mayan-boy"
+      ],
+      "cover": "main-group-of-copan"
+    },
+    {
+      "slug": "cuero-y-salado",
+      "title": "Cuero y Salado",
+      "count": 10,
+      "photos": [
+        "train-tracks",
+        "a-child-inside-the-wildlife-refuge",
+        "main-building-of-the",
+        "view-of-the-river",
+        "view-of-the-river-1",
+        "incredible-mirror-like-landscape",
+        "howler-monkey",
+        "bats",
+        "mangrove",
+        "mangroves"
+      ],
+      "cover": "incredible-mirror-like-landscape"
+    },
+    {
+      "slug": "punta-sal",
+      "title": "Jeanette Kawas National Park",
+      "count": 14,
+      "photos": [
+        "view-of-tela",
+        "view-of-tela-1",
+        "view-of-tela-2",
+        "sunset-in-tela",
+        "view-of-tela-3",
+        "lagoon-in-the",
+        "howler-monkeys",
+        "unspoiled-beach",
+        "amazing-rock-formations",
+        "pelicans",
+        "birds",
+        "huge-rock-formations",
+        "unspoiled-beach-1",
+        "unspoiled-beach-2"
+      ],
+      "cover": "amazing-rock-formations"
+    }
+  ],
+  "photos": [
+    {
+      "slug": "sunset-in-west-bay",
+      "id": "000001",
+      "title": "Sunset in West Bay",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/001/IMG-0912,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/sunset-in-west-bay/",
+      "exif": [
+        "f/8",
+        "1/160 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "palm-tree-in-west-bay",
+      "id": "000002",
+      "title": "Palm tree in West Bay",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/002/IMG-2981,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/palm-tree-in-west-bay/",
+      "exif": [
+        "f/10",
+        "1/250 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "view-of-west-bay",
+      "id": "000003",
+      "title": "View of West Bay",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/003/MG-0888,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/view-of-west-bay/",
+      "exif": [
+        "f/13",
+        "1/250 sec",
+        "28mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "sunset-in-west-bay-1",
+      "id": "000004",
+      "title": "Sunset in West Bay",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/004/IMG-0922,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/sunset-in-west-bay-1/",
+      "exif": [
+        "f/8",
+        "1/250 sec",
+        "115mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "pool-of-henry-morgan-hotel",
+      "id": "000005",
+      "title": "Pool of Henry Morgan hotel",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/005/IMG-2942,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/pool-of-henry-morgan-hotel/",
+      "exif": [
+        "f/10",
+        "1/250 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "parrot-in-henry-morgan-hotel",
+      "id": "000006",
+      "title": "Parrot in Henry Morgan hotel",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/006/IMG-3066,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/parrot-in-henry-morgan-hotel/",
+      "exif": [
+        "f/5.6",
+        "1/80 sec",
+        "42mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "west-bay-beach",
+      "id": "000008",
+      "title": "West Bay beach",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/008/IMG-2995,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/west-bay-beach/",
+      "exif": [
+        "f/10",
+        "1/250 sec",
+        "23mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "west-bay-beach-1",
+      "id": "000009",
+      "title": "West Bay beach",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/009/IMG-2952,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/west-bay-beach-1/",
+      "exif": [
+        "f/10",
+        "1/250 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "child-in-a-dock-west-end",
+      "id": "000229",
+      "title": "Child in a West End's dock",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/229/IMGP0868,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/child-in-a-dock-west-end/",
+      "exif": [
+        "f/8.3",
+        "1/200 sec",
+        "18.6mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "dolphin-in-anthoneys-key",
+      "id": "000230",
+      "title": "Dolphin in Anthony's key",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/230/CIMG1480,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/dolphin-in-anthoneys-key/",
+      "exif": [
+        "f/8",
+        "1/320 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "dolphin-in-anthonys-key",
+      "id": "000231",
+      "title": "Dolphin in Anthony's key",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/231/CIMG1482,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/dolphin-in-anthonys-key/",
+      "exif": [
+        "f/8",
+        "1/320 sec",
+        "7.9mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "dolphin-in-anthonys-key-1",
+      "id": "000232",
+      "title": "A couple of friendly dolphins in Anthony's key",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/232/CIMG1533,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/roatan/content/dolphin-in-anthonys-key-1/",
+      "exif": [
+        "f/4",
+        "1/400 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "cayo-paloma",
+      "id": "000013",
+      "title": "Cayo Paloma",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/013/IMG-1872,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/cayo-paloma/",
+      "exif": [
+        "f/11",
+        "1/250 sec",
+        "28mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "cayo-bolanos",
+      "id": "000014",
+      "title": "Cayo Bolaños",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/014/MG-0055,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/cayo-bolanos/",
+      "exif": [
+        "f/14",
+        "1/320 sec",
+        "31mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "an-incredible-tree-in-the-rock",
+      "id": "000015",
+      "title": "An incredible tree in the rock",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/015/MG-0147,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/an-incredible-tree-in-the-rock/",
+      "exif": [
+        "f/11",
+        "1/320 sec",
+        "51mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "one-private-cay",
+      "id": "000016",
+      "title": "A private cay close to Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/016/MG-0236,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/one-private-cay/",
+      "exif": [
+        "f/11",
+        "1/400 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "view-from-cayo-grande",
+      "id": "000017",
+      "title": "View from Cayo grande",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/017/MG-0223,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/view-from-cayo-grande/",
+      "exif": [
+        "f/11",
+        "1/250 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "chachauate-cay",
+      "id": "000018",
+      "title": "Chachauate cay",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/018/MG-0244,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate-cay/",
+      "exif": [
+        "f/14",
+        "1/250 sec",
+        "31mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "chachauate-cay-1",
+      "id": "000019",
+      "title": "Chachauate cay",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/019/MG-2818,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate-cay-1/",
+      "exif": [
+        "f/14",
+        "1/250 sec",
+        "31mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "a-boy-feeding",
+      "id": "000020",
+      "title": "Garifuna boy feeding a group of pelicans in Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/020/IMG-2829,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/a-boy-feeding/",
+      "exif": [
+        "f/10",
+        "1/200 sec",
+        "42mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "chachauate-cay-2",
+      "id": "000021",
+      "title": "Chachauate cay",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/021/MG-0358,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate-cay-2/",
+      "exif": [
+        "f/11",
+        "1/320 sec",
+        "21mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "chachauate-cay-3",
+      "id": "000022",
+      "title": "Canoes in Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/022/MG-0258,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate-cay-3/",
+      "exif": [
+        "f/11",
+        "1/200 sec",
+        "28mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "chachauate",
+      "id": "000023",
+      "title": "Canoes in Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/023/MG-0418,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate/",
+      "exif": [
+        "f/8",
+        "1/160 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "a-fresh-lobster",
+      "id": "000025",
+      "title": "A fresh lobster with red beans and rice, and tajadas",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/025/MG-0278,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/a-fresh-lobster/",
+      "exif": [
+        "f/4",
+        "1/25 sec",
+        "21mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "fried-fish-with-red-beand-and-rice-and-fried-banana",
+      "id": "000026",
+      "title": "Fried fish with red beans and rice, and tajadas",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/026/IMG-2842,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/fried-fish-with-red-beand-and-rice-and-fried-banana/",
+      "exif": [
+        "f/5.6",
+        "1/25 sec",
+        "18mm",
+        "ISO 125"
+      ]
+    },
+    {
+      "slug": "a",
+      "id": "000027",
+      "title": "Garifuna girl",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/027/MG-0362,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/a/",
+      "exif": [
+        "f/6.3",
+        "1/200 sec",
+        "200mm",
+        "ISO 500"
+      ]
+    },
+    {
+      "slug": "garifuna-girl",
+      "id": "000028",
+      "title": "Garifuna girl",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/028/MG-0644,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-girl/",
+      "exif": [
+        "f/6.3",
+        "1/200 sec",
+        "154mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "garifuna-girl-1",
+      "id": "000029",
+      "title": "Garifuna girl",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/029/MG-0388,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-girl-1/",
+      "exif": [
+        "f/7.1",
+        "1/125 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "a-group-of-garifunas",
+      "id": "000030",
+      "title": "Playing with a group of Garifunas",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/030/MG-0406,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/a-group-of-garifunas/",
+      "exif": [
+        "f/4",
+        "1/60 sec",
+        "18mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "garifuna-boy",
+      "id": "000031",
+      "title": "Garifuna boy",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/031/MG-0453,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-boy/",
+      "exif": [
+        "f/6.3",
+        "1/125 sec",
+        "200mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "playing-with-a-group-of-garifunas",
+      "id": "000032",
+      "title": "Playing with a group of Garifunas",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/032/MG-0545,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/playing-with-a-group-of-garifunas/",
+      "exif": [
+        "f/4.5",
+        "1/60 sec",
+        "31mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "garifuna-girl-with",
+      "id": "000033",
+      "title": "Garifuna girl with my girlfriend",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/033/MG-0564,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-girl-with/",
+      "exif": [
+        "f/4.5",
+        "1/60 sec",
+        "42mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "garifuna-cooking",
+      "id": "000034",
+      "title": "Garifuna cooking",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/034/MG-0469,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-cooking/",
+      "exif": [
+        "f/5.6",
+        "1/125 sec",
+        "115mm",
+        "ISO 500"
+      ]
+    },
+    {
+      "slug": "garifunas-dancing-punta-1",
+      "id": "000154",
+      "title": "Garifunas dancing Punta",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/154/IMGP0591,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/garifunas-dancing-punta-1/",
+      "exif": [
+        "f/4.1",
+        "1/320 sec",
+        "12.8mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "incredible-sunset-in-chachauate",
+      "id": "000036",
+      "title": "Incredible sunset in Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/036/MG-0494,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/incredible-sunset-in-chachauate/",
+      "exif": [
+        "f/13",
+        "1/250 sec",
+        "31mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "pelican-in-chachauate",
+      "id": "000037",
+      "title": "Pelican in Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/037/MG-0639,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/pelican-in-chachauate/",
+      "exif": [
+        "f/10",
+        "1/400 sec",
+        "173mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "a-couple-of-garifuna-boys-with-a-canoe",
+      "id": "000038",
+      "title": "A couple of garifuna boys with a canoe",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/038/MG-0641,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/a-couple-of-garifuna-boys-with-a-canoe/",
+      "exif": [
+        "f/9",
+        "1/400 sec",
+        "173mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "garigu",
+      "id": "000039",
+      "title": "Garifuna boy with his canoe",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/039/MG-0672,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/garigu/",
+      "exif": [
+        "f/10",
+        "1/320 sec",
+        "134mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "a-view-of-cayo-menor-from-cayo-grande",
+      "id": "000040",
+      "title": "A view of Cayo Menor from Cayo Grande",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/040/IMG-0753,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/a-view-of-cayo-menor-from-cayo-grande/",
+      "exif": [
+        "f/11",
+        "1/250 sec",
+        "21mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "pink-boa-and",
+      "id": "000041",
+      "title": "Pink Boa, an endemic specie from Cayos Cochinos",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/041/MG-0776,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/pink-boa-and/",
+      "exif": [
+        "f/6.3",
+        "1/50 sec",
+        "200mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "pink-boa-an-endemic-specie-from-cayos-cochinos",
+      "id": "000042",
+      "title": "Pink Boa, an endemic specie from Cayos Cochinos",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/042/MG-2793,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/pink-boa-an-endemic-specie-from-cayos-cochinos/",
+      "exif": [
+        "f/6.3",
+        "1/60 sec",
+        "200mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "a-small-lizard-in-cayo-grande",
+      "id": "000043",
+      "title": "A small lizard in Cayo Grande",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/043/MG-0108,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/a-small-lizard-in-cayo-grande/",
+      "exif": [
+        "f/13",
+        "1/200 sec",
+        "200mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "a-garifuna-boy-enjoying-the-sunset-in-chachauate",
+      "id": "000044",
+      "title": "Garifuna boy enjoying the sunset in Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/044/IMG-0482,huge.1413154003.jpg",
+      "width": 1365,
+      "height": 2048,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/a-garifuna-boy-enjoying-the-sunset-in-chachauate/",
+      "exif": [
+        "f/11",
+        "1/250 sec",
+        "42mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "garifuna-boy-fishing-a-lobster",
+      "id": "000155",
+      "title": "Garifuna boy fishing two lobsters",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/155/SANY0042,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-boy-fishing-a-lobster/",
+      "exif": [
+        "f/3.5",
+        "10/2387 sec",
+        "6.3mm",
+        "ISO 50"
+      ]
+    },
+    {
+      "slug": "coral-in-chachauate",
+      "id": "000156",
+      "title": "Coral reef around Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/156/SANY0034,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/coral-in-chachauate/",
+      "exif": [
+        "f/4",
+        "10/2441 sec",
+        "6.3mm",
+        "ISO 50"
+      ]
+    },
+    {
+      "slug": "coral-reef-around-chachauate",
+      "id": "000157",
+      "title": "Coral reef around Chachauate",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/157/SANY0036,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/cayos-cochinos/content/coral-reef-around-chachauate/",
+      "exif": [
+        "f/4.7",
+        "1/170 sec",
+        "6.3mm",
+        "ISO 50"
+      ]
+    },
+    {
+      "slug": "river-in-pico-bonito",
+      "id": "000061",
+      "title": "Zacate river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/061/IMG-1997,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/river-in-pico-bonito/",
+      "exif": [
+        "f/5.6",
+        "1/30 sec",
+        "24mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "pico-bonito-forest",
+      "id": "000068",
+      "title": "Pico Bonito forest",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/068/MG-2564,huge.1413154003.jpg",
+      "width": 1365,
+      "height": 2048,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/pico-bonito-forest/",
+      "exif": [
+        "f/3.5",
+        "1/30 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "ave-del-paraiso-plant",
+      "id": "000056",
+      "title": "Colorful plant",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/056/IMG-1964,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/ave-del-paraiso-plant/",
+      "exif": [
+        "f/5.6",
+        "1/60 sec",
+        "55mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "mushrooms-in-pico",
+      "id": "000055",
+      "title": "Mushrooms",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/055/IMG-1962,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/mushrooms-in-pico/",
+      "exif": [
+        "f/5",
+        "1/60 sec",
+        "40mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "centipede",
+      "id": "000057",
+      "title": "Centipede",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/057/IMG-1978,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/centipede/",
+      "exif": [
+        "f/5.6",
+        "1/60 sec",
+        "55mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "a-big-spider",
+      "id": "000058",
+      "title": "A big spider",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/058/IMG-1982,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/a-big-spider/",
+      "exif": [
+        "f/5.6",
+        "1/60 sec",
+        "55mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "small",
+      "id": "000059",
+      "title": "Small long-legs spider",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/059/IMG-1994,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/small/",
+      "exif": [
+        "f/4.5",
+        "1/60 sec",
+        "37mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "tiny-flower",
+      "id": "000060",
+      "title": "Tiny flower",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/060/IMG-1995,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/tiny-flower/",
+      "exif": [
+        "f/5.6",
+        "1/80 sec",
+        "55mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "waterfall-in-pico-bonito",
+      "id": "000062",
+      "title": "Waterfall in Zacate river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/062/IMG-2031,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/waterfall-in-pico-bonito/",
+      "exif": [
+        "f/3.5",
+        "1/160 sec",
+        "20mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "waterfall-in-pico-bonito-1",
+      "id": "000063",
+      "title": "Jumping",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/063/IMG-2048,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/waterfall-in-pico-bonito-1/",
+      "exif": [
+        "f/5.6",
+        "1/80 sec",
+        "51mm",
+        "ISO 500"
+      ]
+    },
+    {
+      "slug": "waterfall-in-pico-bonito-2",
+      "id": "000066",
+      "title": "Waterfall in Zacate river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/066/MG-2546,huge.1413154003.jpg",
+      "width": 1280,
+      "height": 1920,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/waterfall-in-pico-bonito-2/",
+      "exif": [
+        "f/10",
+        "1/6 sec",
+        "51mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "waterfall-in-pico-bonito-3",
+      "id": "000067",
+      "title": "Zacate river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/067/MG-2554,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/waterfall-in-pico-bonito-3/",
+      "exif": [
+        "f/20",
+        "1/5 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "a-big-and-long-tree",
+      "id": "000069",
+      "title": "A big and long tree",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/069/MG-2578,huge.1413154003.jpg",
+      "width": 1365,
+      "height": 2048,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/a-big-and-long-tree/",
+      "exif": [
+        "f/3.5",
+        "1/25 sec",
+        "18mm",
+        "ISO 640"
+      ]
+    },
+    {
+      "slug": "beautiful",
+      "id": "000070",
+      "title": "A beautiful butterfly",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/070/MG-2583,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/beautiful/",
+      "exif": [
+        "f/6.3",
+        "1/25 sec",
+        "200mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "a-beautiful-butterfly",
+      "id": "000071",
+      "title": "A beautiful butterfly",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/071/MG-2594,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/a-beautiful-butterfly/",
+      "exif": [
+        "f/6.3",
+        "1/25 sec",
+        "200mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "small-frog",
+      "id": "000072",
+      "title": "Small frog",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/072/MG-2615,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/small-frog/",
+      "exif": [
+        "f/6.3",
+        "1/60 sec",
+        "200mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "frog",
+      "id": "000073",
+      "title": "Frog",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/073/MG-2627,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/frog/",
+      "exif": [
+        "f/6.3",
+        "1/60 sec",
+        "200mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "big-leaf",
+      "id": "000074",
+      "title": "Big leaf",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/074/MG-2689,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/big-leaf/",
+      "exif": [
+        "f/4",
+        "1/25 sec",
+        "21mm",
+        "ISO 250"
+      ]
+    },
+    {
+      "slug": "pico-bonito-path",
+      "id": "000075",
+      "title": "Pico Bonito trail",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/075/MG-2697,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/pico-bonito-path/",
+      "exif": [
+        "f/4.5",
+        "1/15 sec",
+        "35mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "big-trees-fighting-for-the-sun-in-the-cloud-forest",
+      "id": "000077",
+      "title": "Big trees \"fighting\" for the sun in the cloud forest",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/077/MG-2702,huge.1413154003.jpg",
+      "width": 1365,
+      "height": 2048,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/big-trees-fighting-for-the-sun-in-the-cloud-forest/",
+      "exif": [
+        "f/3.5",
+        "1/30 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "bird-of-paradise-plant",
+      "id": "000078",
+      "title": "Bird of Paradise plant",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/078/MG-2704,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/bird-of-paradise-plant/",
+      "exif": [
+        "f/5.6",
+        "1/30 sec",
+        "134mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "at-the-entrance-of",
+      "id": "000079",
+      "title": "At the entrance of one trail in Pico Bonito",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/079/MG-2713,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/at-the-entrance-of/",
+      "exif": [
+        "f/5.6",
+        "1/60 sec",
+        "21mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "pineapple-fields-around-pico-bonito",
+      "id": "000080",
+      "title": "Pineapple plantations around Pico Bonito",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/080/IMG-2717,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/pico-bonito/content/pineapple-fields-around-pico-bonito/",
+      "exif": [
+        "f/9",
+        "1/200 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "view-of",
+      "id": "000081",
+      "title": "View of Sandy Bay at night",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/081/IMG-2285,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/view-of/",
+      "exif": [
+        "f/5.6",
+        "13 sec",
+        "18mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "main-street-in-utila",
+      "id": "000082",
+      "title": "Main street in Utila",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/082/IMGP0621,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/main-street-in-utila/",
+      "exif": [
+        "f/6.5",
+        "1/250 sec",
+        "12.8mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "there",
+      "id": "000083",
+      "title": "Only motorbikes and golf carts in Sandy Bay",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/083/IMGP0622,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/there/",
+      "exif": [
+        "f/4.8",
+        "1/640 sec",
+        "7.6mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "incredible-sunset-in-utila",
+      "id": "000084",
+      "title": "Incredible sunset in Utila",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/084/IMG-1676,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/incredible-sunset-in-utila/",
+      "exif": [
+        "f/13",
+        "1/400 sec",
+        "78mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "chepes-beach",
+      "id": "000085",
+      "title": "Chepes beach",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/085/IMGP0694,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/chepes-beach/",
+      "exif": [
+        "f/4.3",
+        "1/1250 sec",
+        "6.2mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "chepes-beach-1",
+      "id": "000086",
+      "title": "Chepes beach",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/086/MG-1842,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/chepes-beach-1/",
+      "exif": [
+        "f/11",
+        "1/320 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "small-private-island-around-utila",
+      "id": "000087",
+      "title": "Small private island near Utila shore",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/087/CIMG1208,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/small-private-island-around-utila/",
+      "exif": [
+        "f/3.6",
+        "1/320 sec",
+        "11.8mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "bando-beach",
+      "id": "000088",
+      "title": "Bando beach",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/088/CIMG0710,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/bando-beach/",
+      "exif": [
+        "f/8",
+        "1/500 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "utila-sunset",
+      "id": "000089",
+      "title": "Utila sunset",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/089/IMG-1670,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/utila-sunset/",
+      "exif": [
+        "f/10",
+        "1/160 sec",
+        "31mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "mayan-princess-pool",
+      "id": "000090",
+      "title": "Mango Inn's pool",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/090/IMGP0617,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/mayan-princess-pool/",
+      "exif": [
+        "f/4.3",
+        "1/1000 sec",
+        "6.2mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "rubis-inn",
+      "id": "000091",
+      "title": "Views from Rubi’s Inn",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/091/IMG-1652,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/rubis-inn/",
+      "exif": [
+        "f/8",
+        "1/160 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "cottage-in-rubis-inn",
+      "id": "000092",
+      "title": "Cottage in Rubi’s Inn",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/092/MG-1705,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/cottage-in-rubis-inn/",
+      "exif": [
+        "f/4.5",
+        "1/40 sec",
+        "21mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "the",
+      "id": "000093",
+      "title": "The unbelievable Jade Seahorse hotel",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/093/MG-1845,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/the/",
+      "exif": [
+        "f/4",
+        "1/40 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "the-unbelievable-jade-seahorse-hotel",
+      "id": "000094",
+      "title": "The unbelievable Jade Seahorse hotel",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/094/MG-1829,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/the-unbelievable-jade-seahorse-hotel/",
+      "exif": [
+        "f/5",
+        "1/60 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "the-unbelievable-jade-seahorse-hotel-1",
+      "id": "000095",
+      "title": "The unbelievable Jade Seahorse hotel",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/095/MG-1860,huge.1413154003.jpg",
+      "width": 1280,
+      "height": 1920,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/the-unbelievable-jade-seahorse-hotel-1/",
+      "exif": [
+        "f/3.5",
+        "1/30 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "lighthouse-hotel-with-its-aweseome-views",
+      "id": "000096",
+      "title": "Lighthouse hotel with its aweseome views",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/096/IMG-2380,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/lighthouse-hotel-with-its-aweseome-views/",
+      "exif": [
+        "f/13",
+        "1/250 sec",
+        "29mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "utila-dive-center-dock",
+      "id": "000097",
+      "title": "Utila Dive Center's dock",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/097/IMGP0665,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/utila-dive-center-dock/",
+      "exif": [
+        "f/4.8",
+        "1/1250 sec",
+        "7.6mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "utila-dive-center-dock-1",
+      "id": "000098",
+      "title": "Utila Dive Center's dock",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/098/IMGP0651,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/utila-dive-center-dock-1/",
+      "exif": [
+        "f/4.3",
+        "1/1000 sec",
+        "6.2mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "utila-dive-center-dock-2",
+      "id": "000099",
+      "title": "Cross Creek's dock",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/099/MG-2269,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/utila-dive-center-dock-2/",
+      "exif": [
+        "f/3.5",
+        "1/8 sec",
+        "18mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "waiting-to-eat-some-baleadas",
+      "id": "000100",
+      "title": "Waiting to eat some baleadas",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/100/IMG-2384,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/waiting-to-eat-some-baleadas/",
+      "exif": [
+        "f/5.6",
+        "1/200 sec",
+        "18mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "tranquilas-bardock",
+      "id": "000101",
+      "title": "Tranquila bar's dock",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/101/MG-2504,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/tranquilas-bardock/",
+      "exif": [
+        "f/3.5",
+        "3/5 sec",
+        "18mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "tranquila-bars-dock",
+      "id": "000102",
+      "title": "Tranquila bar's dock",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/102/IMG-2289,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/tranquila-bars-dock/",
+      "exif": [
+        "f/5.6",
+        "10 sec",
+        "18mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "bundu-cafe",
+      "id": "000103",
+      "title": "Bundu cafe",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/103/IMGP0648,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/bundu-cafe/",
+      "exif": [
+        "f/2.7",
+        "1/8 sec",
+        "6.2mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "water-cay",
+      "id": "000104",
+      "title": "Water cay, a cay near Utila",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/104/CIMG1355,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/water-cay/",
+      "exif": [
+        "f/8",
+        "1/200 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "water-cay-a-cay-near-utila",
+      "id": "000105",
+      "title": "Water cay, a cay near Utila",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/105/CIMG1340,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/water-cay-a-cay-near-utila/",
+      "exif": [
+        "f/2.8",
+        "1/250 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "sunjam-in-water-cay",
+      "id": "000106",
+      "title": "Sunjam music festival in Water Cay",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/106/CIMG1360,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/sunjam-in-water-cay/",
+      "exif": [
+        "f/4",
+        "1/320 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "sunjam-music-festival-in-water-cay",
+      "id": "000107",
+      "title": "Sunjam music festival in Water Cay",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/107/CIMG1252,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1440,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/sunjam-music-festival-in-water-cay/",
+      "exif": [
+        "f/2.8",
+        "1/25 sec",
+        "7.9mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "biking-around-utila",
+      "id": "000108",
+      "title": "Biking around Utila",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/108/MG-2377,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/biking-around-utila/",
+      "exif": [
+        "f/11",
+        "1/250 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "view-of-northern-utila",
+      "id": "000109",
+      "title": "View of northern Utila",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/109/MG-2395,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/view-of-northern-utila/",
+      "exif": [
+        "f/13",
+        "1/250 sec",
+        "35mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "a-road-of-northern-utila",
+      "id": "000110",
+      "title": "Policemen and a rancher in northern Utila",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/110/MG-2409,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/a-road-of-northern-utila/",
+      "exif": [
+        "f/10",
+        "1/250 sec",
+        "51mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "utila-girl",
+      "id": "000111",
+      "title": "Utila girl",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/111/MG-1785,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/utila-girl/",
+      "exif": [
+        "f/8",
+        "1/250 sec",
+        "200mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "utila-woman",
+      "id": "000112",
+      "title": "Utila woman weaving in her shop",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/112/MG-1726,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/utila-woman/",
+      "exif": [
+        "f/4",
+        "1/13 sec",
+        "24mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "parrot-in-bando-beach",
+      "id": "000113",
+      "title": "Macaw in Bando beach",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/113/MG-1991,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/parrot-in-bando-beach/",
+      "exif": [
+        "f/6.3",
+        "1/200 sec",
+        "173mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "lizard",
+      "id": "000114",
+      "title": "Lizard",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/114/MG-2389,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/lizard/",
+      "exif": [
+        "f/8",
+        "1/250 sec",
+        "200mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "small-crab-in-bando-beach",
+      "id": "000115",
+      "title": "Small crab in Bando beach",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/115/MG-1959,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/small-crab-in-bando-beach/",
+      "exif": [
+        "f/11",
+        "1/500 sec",
+        "200mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "coral-rocks",
+      "id": "000116",
+      "title": "Utila is plenty of coral stones",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/116/MG-1663,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/utila/content/coral-rocks/",
+      "exif": [
+        "f/8",
+        "1/160 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "cottage-in-finca-las-glorias",
+      "id": "000117",
+      "title": "Cottage in front of the lake, Finca Las Glorias",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/117/IMG-2610,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/cottage-in-finca-las-glorias/",
+      "exif": [
+        "f/10",
+        "1/250 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "a-big-grasshopper",
+      "id": "000118",
+      "title": "A big relaxed grasshopper",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/118/IMG-2601,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/a-big-grasshopper/",
+      "exif": [
+        "f/5.6",
+        "1/640 sec",
+        "55mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "view-of-yojoa-lake",
+      "id": "000120",
+      "title": "View of Yojoa Lake",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/120/IMG-2655,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/view-of-yojoa-lake/",
+      "exif": [
+        "f/9",
+        "1/200 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "a-great-place-to-relax",
+      "id": "000121",
+      "title": "A great place to relax",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/121/IMG-2659,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/a-great-place-to-relax/",
+      "exif": [
+        "f/14",
+        "1/200 sec",
+        "18mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "view-of-yojoa-lake-1",
+      "id": "000122",
+      "title": "View of Yojoa Lake",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/122/IMG-2677,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/view-of-yojoa-lake-1/",
+      "exif": [
+        "f/11",
+        "1/250 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "pulhapanzak-falls",
+      "id": "000123",
+      "title": "Pulhapanzak waterfall",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/123/IMG-2707,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/pulhapanzak-falls/",
+      "exif": [
+        "f/8",
+        "1/160 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "canopy",
+      "id": "000124",
+      "title": "Canopy on the waterfall",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/124/IMG-2737,huge.1413154003.JPG",
+      "width": 2048,
+      "height": 1365,
+      "sourcePage": "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/canopy/",
+      "exif": [
+        "f/9",
+        "1/125 sec",
+        "35mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "view-of-la-ceiba",
+      "id": "000158",
+      "title": "View of La Ceiba",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/158/CIMG4560,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/view-of-la-ceiba/",
+      "exif": [
+        "f/4.3",
+        "1/400 sec",
+        "5.8mm"
+      ]
+    },
+    {
+      "slug": "view-of-la-ceiba-1",
+      "id": "000159",
+      "title": "Central Park, La Ceiba",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/159/CIMG4575,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/view-of-la-ceiba-1/",
+      "exif": [
+        "f/4.3",
+        "1/160 sec",
+        "5.8mm"
+      ]
+    },
+    {
+      "slug": "estero-la-ceiba",
+      "id": "000160",
+      "title": "Estero, La Ceiba",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/160/CIMG4612,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/estero-la-ceiba/",
+      "exif": [
+        "f/4.3",
+        "1/320 sec",
+        "5.8mm"
+      ]
+    },
+    {
+      "slug": "street-vendor-selling-avocados",
+      "id": "000161",
+      "title": "Street vendor selling avocados",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/161/CIMG4628,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/street-vendor-selling-avocados/",
+      "exif": [
+        "f/4.3",
+        "1/250 sec",
+        "5.8mm"
+      ]
+    },
+    {
+      "slug": "rainbow-in-a",
+      "id": "000162",
+      "title": "Rainbow in a residential area, La Ceiba",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/162/CIMG4798-2,huge.1413154003.jpg",
+      "width": 1278,
+      "height": 1920,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/rainbow-in-a/",
+      "exif": [
+        "f/4.3",
+        "1/100 sec",
+        "5.8mm"
+      ]
+    },
+    {
+      "slug": "machuca-soup",
+      "id": "000163",
+      "title": "Machuca soup, Corozal",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/163/CIMG5048,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/machuca-soup/",
+      "exif": [
+        "f/2.8",
+        "1/125 sec",
+        "6.8mm"
+      ]
+    },
+    {
+      "slug": "corozal-boy",
+      "id": "000164",
+      "title": "Corozal boy greeting",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/164/CIMG5050,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/corozal-boy/",
+      "exif": [
+        "f/4.8",
+        "1/400 sec",
+        "17.4mm"
+      ]
+    },
+    {
+      "slug": "machuca-soup-corozal",
+      "id": "000165",
+      "title": "Corozal boy",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/165/CIMG5054,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/machuca-soup-corozal/",
+      "exif": [
+        "f/4.3",
+        "1/160 sec",
+        "5.8mm"
+      ]
+    },
+    {
+      "slug": "typical-bus-of-la-ceiba",
+      "id": "000167",
+      "title": "Typical bus of La Ceiba",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/167/CIMG0158,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/typical-bus-of-la-ceiba/",
+      "exif": [
+        "f/2.8",
+        "1/250 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "pico-bonito-and",
+      "id": "000168",
+      "title": "Pineapple plantations and Pico Bonito in the background",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/168/IMG-1943,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/pico-bonito-and/",
+      "exif": [
+        "f/10",
+        "1/125 sec",
+        "34mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "rafting-in-cangrejal-river",
+      "id": "000169",
+      "title": "Rafting in Cangrejal river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/169/IMGP0457,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/rafting-in-cangrejal-river/",
+      "exif": [
+        "f/5.2",
+        "1/200 sec",
+        "18.6mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "rafting-in-cangrejal-river-1",
+      "id": "000170",
+      "title": "Rafting in Cangrejal river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/170/IMGP0461,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/rafting-in-cangrejal-river-1/",
+      "exif": [
+        "f/8.3",
+        "1/125 sec",
+        "18.6mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "jumping-over-cangrejal-river",
+      "id": "000171",
+      "title": "Jumping over Cangrejal river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/171/CIMG0137,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/jumping-over-cangrejal-river/",
+      "exif": [
+        "f/6",
+        "1/250 sec",
+        "16.6mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "small-watefall",
+      "id": "000172",
+      "title": "Small waterfall close to Cangrejal river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/172/IMGP0479,huge.1413154003.jpg",
+      "width": 1280,
+      "height": 1920,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/small-watefall/",
+      "exif": [
+        "f/2.7",
+        "1/160 sec",
+        "6.2mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "small-waterfall-close-to-cangrejal-river",
+      "id": "000173",
+      "title": "Small waterfall close to Cangrejal river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/173/IMGP0499,huge.1413154003.jpg",
+      "width": 1280,
+      "height": 1920,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/small-waterfall-close-to-cangrejal-river/",
+      "exif": [
+        "f/4.1",
+        "1/160 sec",
+        "12.8mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "cangrejal-river",
+      "id": "000174",
+      "title": "Cangrejal river shore",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/174/IMGP0503-2,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/cangrejal-river/",
+      "exif": [
+        "f/5.2",
+        "1/250 sec",
+        "9mm",
+        "ISO 64"
+      ]
+    },
+    {
+      "slug": "lying-before",
+      "id": "000175",
+      "title": "Lying before doing canopy and enjoying hot springs",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/175/IMG-2150,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/lying-before/",
+      "exif": [
+        "f/7.1",
+        "1/100 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "canopy-in-glendas-paradise",
+      "id": "000176",
+      "title": "Canopy in Glenda's Paradise",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/176/CIMG0598,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/canopy-in-glendas-paradise/",
+      "exif": [
+        "f/2.8",
+        "1/125 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "beautiful-bird-in-cacao-lagoon",
+      "id": "000177",
+      "title": "Beautiful bird in Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/177/MG-1133,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/beautiful-bird-in-cacao-lagoon/",
+      "exif": [
+        "f/6.3",
+        "1/160 sec",
+        "200mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "howler-monkey-in-cacao-lagoon",
+      "id": "000178",
+      "title": "Howler monkey in Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/178/MG-1165,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/howler-monkey-in-cacao-lagoon/",
+      "exif": [
+        "f/6.3",
+        "1/125 sec",
+        "200mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "kayaking-in-howler-monkey-in-cacao-lagoon",
+      "id": "000179",
+      "title": "Kayaking in Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/179/MG-1173,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/kayaking-in-howler-monkey-in-cacao-lagoon/",
+      "exif": [
+        "f/7.1",
+        "1/100 sec",
+        "42mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "cacao-lagoon",
+      "id": "000180",
+      "title": "Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/180/MG-1177,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/cacao-lagoon/",
+      "exif": [
+        "f/8",
+        "1/100 sec",
+        "28mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "howler-monkey-in-cacao-lagoon-1",
+      "id": "000181",
+      "title": "Howler monkey in Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/181/MG-1178,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/howler-monkey-in-cacao-lagoon-1/",
+      "exif": [
+        "f/6.3",
+        "1/200 sec",
+        "154mm",
+        "ISO 640"
+      ]
+    },
+    {
+      "slug": "bats-in-cacao-lagoon",
+      "id": "000182",
+      "title": "Bats in Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/182/MG-1199,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/bats-in-cacao-lagoon/",
+      "exif": [
+        "f/5",
+        "1/60 sec",
+        "51mm",
+        "ISO 320"
+      ]
+    },
+    {
+      "slug": "view-of-cacao-lagoon-close-to-the-caribbean-sea",
+      "id": "000233",
+      "title": "View of Cacao Lagoon close to the Caribbean Sea",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/233/IMG-1226,huge.1413224980.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/view-of-cacao-lagoon-close-to-the-caribbean-sea/",
+      "exif": [
+        "f/8",
+        "1/125 sec",
+        "28mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "unspoiled-beach-close",
+      "id": "000184",
+      "title": "Unspoiled Caribbean beach close to Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/184/IMG-1233,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/unspoiled-beach-close/",
+      "exif": [
+        "f/10",
+        "1/200 sec",
+        "24mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "howler-monkey-in-cacao-lagoon-2",
+      "id": "000185",
+      "title": "Howler monkey in Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/185/MG-1286,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/howler-monkey-in-cacao-lagoon-2/",
+      "exif": [
+        "f/6.3",
+        "1/125 sec",
+        "200mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "howler-monkey-in-cacao-lagoon-3",
+      "id": "000186",
+      "title": "Howler monkey in Cacao Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/186/MG-1301,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/la-ceiba/content/howler-monkey-in-cacao-lagoon-3/",
+      "exif": [
+        "f/6.3",
+        "1/200 sec",
+        "200mm",
+        "ISO 500"
+      ]
+    },
+    {
+      "slug": "copan-ruinas-village",
+      "id": "000187",
+      "title": "Main square of Copán Ruinas village",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/187/CIMG0664,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/copan-ruinas-village/",
+      "exif": [
+        "f/4.4",
+        "1/500 sec",
+        "9.5mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "road-of-copan-ruinas-village",
+      "id": "000188",
+      "title": "Road of Copán Ruinas village",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/188/IMG-2422,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/road-of-copan-ruinas-village/",
+      "exif": [
+        "f/4",
+        "1/25 sec",
+        "28mm",
+        "ISO 800"
+      ]
+    },
+    {
+      "slug": "mayan-ruins-of-copan",
+      "id": "000189",
+      "title": "Mayan ruins of Copán",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/189/IMG-2440,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/mayan-ruins-of-copan/",
+      "exif": [
+        "f/7.1",
+        "1/125 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "simian-sculptures-possibly",
+      "id": "000190",
+      "title": "Simian sculptures, possibly representing Howler Monkey Gods",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/190/IMG-2441,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/simian-sculptures-possibly/",
+      "exif": [
+        "f/6.3",
+        "1/80 sec",
+        "55mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "stela-n-copan",
+      "id": "000191",
+      "title": "Stela N, depicting K'ak' Yipyaj Chan K'awiil",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/191/IMG-2461,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/stela-n-copan/",
+      "exif": [
+        "f/7.1",
+        "1/100 sec",
+        "55mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "hieroglyphic-stairway",
+      "id": "000192",
+      "title": "Hieroglyphic Stairway detail",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/192/CIMG0973,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/hieroglyphic-stairway/",
+      "exif": [
+        "f/5.1",
+        "1/160 sec",
+        "23.7mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "stela-p-depicting-kak-chan-yopaat",
+      "id": "000193",
+      "title": "Stela P, depicting K'ak' Chan Yopaat",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/193/IMG-2443,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/stela-p-depicting-kak-chan-yopaat/",
+      "exif": [
+        "f/6.3",
+        "1/100 sec",
+        "20mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "the-west-court-of-copan",
+      "id": "000194",
+      "title": "Cementery group",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/194/IMG-2449,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/the-west-court-of-copan/",
+      "exif": [
+        "f/5.6",
+        "1/60 sec",
+        "23mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "the-west-court-of-copan-1",
+      "id": "000195",
+      "title": "The West Court of Copán",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/195/IMG-2450,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/the-west-court-of-copan-1/",
+      "exif": [
+        "f/9",
+        "1/125 sec",
+        "30mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "main-group-of-copan",
+      "id": "000196",
+      "title": "Main group of Copán",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/196/IMG-2456,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/main-group-of-copan/",
+      "exif": [
+        "f/8",
+        "1/100 sec",
+        "50mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "main-group-of-copan-1",
+      "id": "000197",
+      "title": "CIMG1004.jpg",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/197/CIMG1004,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1279,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/main-group-of-copan-1/",
+      "exif": [
+        "f/4",
+        "1/640 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "main-group-of-copan-2",
+      "id": "000198",
+      "title": "Main group of Copán",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/198/IMG-2459,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/main-group-of-copan-2/",
+      "exif": [
+        "f/8",
+        "1/100 sec",
+        "35mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "ballcourt-of-copan",
+      "id": "000199",
+      "title": "Ballcourt of Copán",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/199/IMG-2467,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/ballcourt-of-copan/",
+      "exif": [
+        "f/9",
+        "1/200 sec",
+        "18mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "detail-in-main-group",
+      "id": "000200",
+      "title": "Detail in Main group",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/200/IMG-2482,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/detail-in-main-group/",
+      "exif": [
+        "f/3.5",
+        "1/500 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "mayan-girl",
+      "id": "000201",
+      "title": "Mayan boy selling typical handmade dolls",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/201/IMG-2493,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/mayan-girl/",
+      "exif": [
+        "f/5.6",
+        "1/125 sec",
+        "49mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "mayan-girls",
+      "id": "000202",
+      "title": "Mayan girls",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/202/IMG-2503,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/mayan-girls/",
+      "exif": [
+        "f/5.6",
+        "1/100 sec",
+        "36mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "mayan-boy-selling-typical-handmade-dolls",
+      "id": "000203",
+      "title": "Mayan boy",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/203/IMG-2505,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/mayan-boy-selling-typical-handmade-dolls/",
+      "exif": [
+        "f/5.6",
+        "1/125 sec",
+        "36mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "mayan-boy",
+      "id": "000204",
+      "title": "Mayan boy",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/204/IMG-2520,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/copan/content/mayan-boy/",
+      "exif": [
+        "f/5.6",
+        "1/60 sec",
+        "55mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "train-tracks",
+      "id": "000206",
+      "title": "This is the path to arrive to Cuero y Salado, with a small train through this old tracks",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/206/CIMG5014,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/train-tracks/",
+      "exif": [
+        "f/4.8",
+        "1/250 sec",
+        "17.4mm"
+      ]
+    },
+    {
+      "slug": "a-child-inside-the-wildlife-refuge",
+      "id": "000207",
+      "title": "A child inside the wildlife refuge",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/207/CIMG4876,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/a-child-inside-the-wildlife-refuge/",
+      "exif": [
+        "f/2.6",
+        "1/80 sec",
+        "5.8mm"
+      ]
+    },
+    {
+      "slug": "main-building-of-the",
+      "id": "000208",
+      "title": "Main building of the Wildlife Refuge of Cuero y Salado",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/208/CIMG0625,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/main-building-of-the/",
+      "exif": [
+        "f/8",
+        "1/250 sec",
+        "7.9mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "view-of-the-river",
+      "id": "000209",
+      "title": "One of the local guides with a canoe",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/209/CIMG4856,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/view-of-the-river/",
+      "exif": [
+        "f/5",
+        "1/160 sec",
+        "8.2mm"
+      ]
+    },
+    {
+      "slug": "view-of-the-river-1",
+      "id": "000210",
+      "title": "View of the river",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/210/CIMG4855,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/view-of-the-river-1/",
+      "exif": [
+        "f/5",
+        "1/250 sec",
+        "8.2mm"
+      ]
+    },
+    {
+      "slug": "incredible-mirror-like-landscape",
+      "id": "000211",
+      "title": "Amazing landscape mirror",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/211/CIMG4910-2,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1278,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/incredible-mirror-like-landscape/",
+      "exif": [
+        "f/4.3",
+        "1/400 sec",
+        "5.8mm"
+      ]
+    },
+    {
+      "slug": "howler-monkey",
+      "id": "000205",
+      "title": "Howler monkeys",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/205/CIMG0624,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/howler-monkey/",
+      "exif": [
+        "f/5.1",
+        "1/125 sec",
+        "23.7mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "bats",
+      "id": "000212",
+      "title": "Bats resting",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/212/CIMG4916,huge.1413154003.jpg",
+      "width": 1280,
+      "height": 1920,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/bats/",
+      "exif": [
+        "f/4.8",
+        "1/60 sec",
+        "17.4mm"
+      ]
+    },
+    {
+      "slug": "mangrove",
+      "id": "000213",
+      "title": "Mangroves",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/213/CIMG0566,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/mangrove/",
+      "exif": [
+        "f/3.6",
+        "1/100 sec",
+        "11.8mm",
+        "ISO 80"
+      ]
+    },
+    {
+      "slug": "mangroves",
+      "id": "000214",
+      "title": "Mangroves",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/214/CIMG0608,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/cuero-y-salado/content/mangroves/",
+      "exif": [
+        "f/3.6",
+        "1/100 sec",
+        "11.8mm",
+        "ISO 200"
+      ]
+    },
+    {
+      "slug": "view-of-tela",
+      "id": "000216",
+      "title": "View of Tela and the Caribbean Sea",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/216/IMG-2780,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/view-of-tela/",
+      "exif": [
+        "f/5.6",
+        "1/100 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "view-of-tela-1",
+      "id": "000217",
+      "title": "View of Tela",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/217/IMG-2781,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/view-of-tela-1/",
+      "exif": [
+        "f/5.6",
+        "1/60 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "view-of-tela-2",
+      "id": "000218",
+      "title": "View of Tela",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/218/IMG-2782,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/view-of-tela-2/",
+      "exif": [
+        "f/5.6",
+        "1/30 sec",
+        "24mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "sunset-in-tela",
+      "id": "000219",
+      "title": "Sunset in Tela",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/219/IMG-2797,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/sunset-in-tela/",
+      "exif": [
+        "f/8",
+        "1/125 sec",
+        "55mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "view-of-tela-3",
+      "id": "000220",
+      "title": "View of Tela",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/220/IMG-2832,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/view-of-tela-3/",
+      "exif": [
+        "f/4.5",
+        "1/30 sec",
+        "29mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "lagoon-in-the",
+      "id": "000221",
+      "title": "Lagoon",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/221/IMG-2863,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/lagoon-in-the/",
+      "exif": [
+        "f/9",
+        "1/200 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "howler-monkeys",
+      "id": "000222",
+      "title": "Howler monkeys",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/222/IMG-2878,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/howler-monkeys/",
+      "exif": [
+        "f/5.6",
+        "1/60 sec",
+        "55mm",
+        "ISO 400"
+      ]
+    },
+    {
+      "slug": "unspoiled-beach",
+      "id": "000223",
+      "title": "Unspoiled beach",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/223/IMG-2881,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/unspoiled-beach/",
+      "exif": [
+        "f/9",
+        "1/200 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "amazing-rock-formations",
+      "id": "000224",
+      "title": "Amazing rock formations",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/224/IMG-2893,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/amazing-rock-formations/",
+      "exif": [
+        "f/9",
+        "1/125 sec",
+        "29mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "pelicans",
+      "id": "000225",
+      "title": "Pelicans",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/225/IMG-2899,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/pelicans/",
+      "exif": [
+        "f/10",
+        "1/200 sec",
+        "55mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "birds",
+      "id": "000226",
+      "title": "Long line of birds on top of a big rock",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/226/IMG-2906,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/birds/",
+      "exif": [
+        "f/9",
+        "1/200 sec",
+        "37mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "huge-rock-formations",
+      "id": "000227",
+      "title": "Huge rock formations",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/227/IMG-2910,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/huge-rock-formations/",
+      "exif": [
+        "f/9",
+        "1/200 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "unspoiled-beach-1",
+      "id": "000215",
+      "title": "Unspoiled beach",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/215/IMG-2915,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/unspoiled-beach-1/",
+      "exif": [
+        "f/8",
+        "1/200 sec",
+        "18mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "unspoiled-beach-2",
+      "id": "000228",
+      "title": "Unspoiled beach",
+      "sourceUrl": "http://madeinhonduras.net/storage/cache/images/000/228/IMG-2913,huge.1413154003.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sourcePage": "http://madeinhonduras.net/places/punta-sal/content/unspoiled-beach-2/",
+      "exif": [
+        "f/9",
+        "1/125 sec",
+        "35mm",
+        "ISO 100"
+      ]
+    },
+    {
+      "slug": "mg-2702",
+      "id": "000076",
+      "title": "MG-2702.jpg",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/076/MG-2702,huge.1413154003.jpg",
+      "width": 0,
+      "height": 0,
+      "sourcePage": "http://madeinhonduras.net/content/mg-2702/",
+      "exif": [],
+      "status": "missing-source"
+    },
+    {
+      "slug": "mg-1286",
+      "id": "000064",
+      "title": "MG-1286.JPG",
+      "sourceUrl": "http://www.madeinhonduras.net/storage/cache/images/000/064/MG-1286,huge.1413154003.JPG",
+      "width": 0,
+      "height": 0,
+      "sourcePage": "http://madeinhonduras.net/content/mg-1286/",
+      "exif": [],
+      "status": "missing-source"
+    }
+  ],
+  "archive": [
+    "view-of-cacao-lagoon-close-to-the-caribbean-sea",
+    "dolphin-in-anthonys-key-1",
+    "dolphin-in-anthonys-key",
+    "dolphin-in-anthoneys-key",
+    "child-in-a-dock-west-end",
+    "unspoiled-beach-2",
+    "huge-rock-formations",
+    "birds",
+    "pelicans",
+    "amazing-rock-formations",
+    "unspoiled-beach",
+    "howler-monkeys",
+    "lagoon-in-the",
+    "view-of-tela-3",
+    "sunset-in-tela",
+    "view-of-tela-2",
+    "view-of-tela-1",
+    "view-of-tela",
+    "unspoiled-beach-1",
+    "mangroves",
+    "mangrove",
+    "bats",
+    "incredible-mirror-like-landscape",
+    "view-of-the-river-1",
+    "view-of-the-river",
+    "main-building-of-the",
+    "a-child-inside-the-wildlife-refuge",
+    "train-tracks",
+    "howler-monkey",
+    "mayan-boy",
+    "mayan-boy-selling-typical-handmade-dolls",
+    "mayan-girls",
+    "mayan-girl",
+    "detail-in-main-group",
+    "ballcourt-of-copan",
+    "main-group-of-copan-2",
+    "main-group-of-copan-1",
+    "main-group-of-copan",
+    "the-west-court-of-copan-1",
+    "the-west-court-of-copan",
+    "stela-p-depicting-kak-chan-yopaat",
+    "hieroglyphic-stairway",
+    "stela-n-copan",
+    "simian-sculptures-possibly",
+    "mayan-ruins-of-copan",
+    "road-of-copan-ruinas-village",
+    "copan-ruinas-village",
+    "howler-monkey-in-cacao-lagoon-3",
+    "howler-monkey-in-cacao-lagoon-2",
+    "unspoiled-beach-close",
+    "bats-in-cacao-lagoon",
+    "howler-monkey-in-cacao-lagoon-1",
+    "cacao-lagoon",
+    "kayaking-in-howler-monkey-in-cacao-lagoon",
+    "howler-monkey-in-cacao-lagoon",
+    "beautiful-bird-in-cacao-lagoon",
+    "canopy-in-glendas-paradise",
+    "lying-before",
+    "cangrejal-river",
+    "small-waterfall-close-to-cangrejal-river",
+    "small-watefall",
+    "jumping-over-cangrejal-river",
+    "rafting-in-cangrejal-river-1",
+    "rafting-in-cangrejal-river",
+    "pico-bonito-and",
+    "typical-bus-of-la-ceiba",
+    "machuca-soup-corozal",
+    "corozal-boy",
+    "machuca-soup",
+    "rainbow-in-a",
+    "street-vendor-selling-avocados",
+    "estero-la-ceiba",
+    "view-of-la-ceiba-1",
+    "view-of-la-ceiba",
+    "coral-reef-around-chachauate",
+    "coral-in-chachauate",
+    "garifuna-boy-fishing-a-lobster",
+    "garifunas-dancing-punta-1",
+    "canopy",
+    "pulhapanzak-falls",
+    "view-of-yojoa-lake-1",
+    "a-great-place-to-relax",
+    "view-of-yojoa-lake",
+    "a-big-grasshopper",
+    "cottage-in-finca-las-glorias",
+    "coral-rocks",
+    "small-crab-in-bando-beach",
+    "lizard",
+    "parrot-in-bando-beach",
+    "utila-woman",
+    "utila-girl",
+    "a-road-of-northern-utila",
+    "view-of-northern-utila",
+    "biking-around-utila",
+    "sunjam-music-festival-in-water-cay",
+    "sunjam-in-water-cay",
+    "water-cay-a-cay-near-utila",
+    "water-cay",
+    "bundu-cafe",
+    "tranquila-bars-dock",
+    "tranquilas-bardock",
+    "waiting-to-eat-some-baleadas",
+    "utila-dive-center-dock-2",
+    "utila-dive-center-dock-1",
+    "utila-dive-center-dock",
+    "lighthouse-hotel-with-its-aweseome-views",
+    "the-unbelievable-jade-seahorse-hotel-1",
+    "the-unbelievable-jade-seahorse-hotel",
+    "the",
+    "cottage-in-rubis-inn",
+    "rubis-inn",
+    "mayan-princess-pool",
+    "utila-sunset",
+    "bando-beach",
+    "small-private-island-around-utila",
+    "chepes-beach-1",
+    "chepes-beach",
+    "incredible-sunset-in-utila",
+    "there",
+    "main-street-in-utila",
+    "view-of",
+    "pineapple-fields-around-pico-bonito",
+    "at-the-entrance-of",
+    "bird-of-paradise-plant",
+    "big-trees-fighting-for-the-sun-in-the-cloud-forest",
+    "mg-2702",
+    "pico-bonito-path",
+    "big-leaf",
+    "frog",
+    "small-frog",
+    "a-beautiful-butterfly",
+    "beautiful",
+    "a-big-and-long-tree",
+    "pico-bonito-forest",
+    "waterfall-in-pico-bonito-3",
+    "waterfall-in-pico-bonito-2",
+    "mg-1286",
+    "waterfall-in-pico-bonito-1",
+    "waterfall-in-pico-bonito",
+    "river-in-pico-bonito",
+    "tiny-flower",
+    "small",
+    "a-big-spider",
+    "centipede",
+    "ave-del-paraiso-plant",
+    "mushrooms-in-pico",
+    "a-garifuna-boy-enjoying-the-sunset-in-chachauate",
+    "a-small-lizard-in-cayo-grande",
+    "pink-boa-an-endemic-specie-from-cayos-cochinos",
+    "pink-boa-and",
+    "a-view-of-cayo-menor-from-cayo-grande",
+    "garigu",
+    "a-couple-of-garifuna-boys-with-a-canoe",
+    "pelican-in-chachauate",
+    "incredible-sunset-in-chachauate",
+    "garifuna-cooking",
+    "garifuna-girl-with",
+    "playing-with-a-group-of-garifunas",
+    "garifuna-boy",
+    "a-group-of-garifunas",
+    "garifuna-girl-1",
+    "garifuna-girl",
+    "a",
+    "fried-fish-with-red-beand-and-rice-and-fried-banana",
+    "a-fresh-lobster",
+    "chachauate",
+    "chachauate-cay-3",
+    "chachauate-cay-2",
+    "a-boy-feeding",
+    "chachauate-cay-1",
+    "chachauate-cay",
+    "view-from-cayo-grande",
+    "one-private-cay",
+    "an-incredible-tree-in-the-rock",
+    "cayo-bolanos",
+    "cayo-paloma",
+    "west-bay-beach-1",
+    "west-bay-beach",
+    "parrot-in-henry-morgan-hotel",
+    "pool-of-henry-morgan-hotel",
+    "sunset-in-west-bay-1",
+    "view-of-west-bay",
+    "palm-tree-in-west-bay",
+    "sunset-in-west-bay"
+  ],
+  "portrait": {
+    "id": "portrait",
+    "title": "Marcio Barrios",
+    "sourceUrl": "http://madeinhonduras.net/storage/cache/images/custom/beijing-big-jpg/huge.1413211299.jpg",
+    "width": 1900,
+    "height": 1267
+  },
+  "sources": [
+    "http://madeinhonduras.net/",
+    "http://madeinhonduras.net/places/roatan/",
+    "http://madeinhonduras.net/places/roatan/content/sunset-in-west-bay/",
+    "http://madeinhonduras.net/places/roatan/content/palm-tree-in-west-bay/",
+    "http://madeinhonduras.net/places/roatan/content/view-of-west-bay/",
+    "http://madeinhonduras.net/places/roatan/content/sunset-in-west-bay-1/",
+    "http://madeinhonduras.net/places/roatan/content/pool-of-henry-morgan-hotel/",
+    "http://madeinhonduras.net/places/roatan/content/parrot-in-henry-morgan-hotel/",
+    "http://madeinhonduras.net/places/roatan/content/west-bay-beach/",
+    "http://madeinhonduras.net/places/roatan/content/west-bay-beach-1/",
+    "http://madeinhonduras.net/places/roatan/content/child-in-a-dock-west-end/",
+    "http://madeinhonduras.net/places/roatan/content/dolphin-in-anthoneys-key/",
+    "http://madeinhonduras.net/places/roatan/content/dolphin-in-anthonys-key/",
+    "http://madeinhonduras.net/places/roatan/content/dolphin-in-anthonys-key-1/",
+    "http://madeinhonduras.net/places/cayos-cochinos/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/cayo-paloma/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/cayo-bolanos/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/an-incredible-tree-in-the-rock/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/one-private-cay/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/view-from-cayo-grande/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate-cay/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate-cay-1/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/a-boy-feeding/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate-cay-2/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate-cay-3/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/chachauate/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/a-fresh-lobster/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/fried-fish-with-red-beand-and-rice-and-fried-banana/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/a/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-girl/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-girl-1/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/a-group-of-garifunas/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-boy/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/playing-with-a-group-of-garifunas/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-girl-with/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-cooking/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/garifunas-dancing-punta-1/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/incredible-sunset-in-chachauate/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/pelican-in-chachauate/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/a-couple-of-garifuna-boys-with-a-canoe/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/garigu/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/a-view-of-cayo-menor-from-cayo-grande/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/pink-boa-and/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/pink-boa-an-endemic-specie-from-cayos-cochinos/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/a-small-lizard-in-cayo-grande/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/a-garifuna-boy-enjoying-the-sunset-in-chachauate/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/garifuna-boy-fishing-a-lobster/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/coral-in-chachauate/",
+    "http://madeinhonduras.net/places/cayos-cochinos/content/coral-reef-around-chachauate/",
+    "http://madeinhonduras.net/places/pico-bonito/",
+    "http://madeinhonduras.net/places/pico-bonito/content/river-in-pico-bonito/",
+    "http://madeinhonduras.net/places/pico-bonito/content/pico-bonito-forest/",
+    "http://madeinhonduras.net/places/pico-bonito/content/ave-del-paraiso-plant/",
+    "http://madeinhonduras.net/places/pico-bonito/content/mushrooms-in-pico/",
+    "http://madeinhonduras.net/places/pico-bonito/content/centipede/",
+    "http://madeinhonduras.net/places/pico-bonito/content/a-big-spider/",
+    "http://madeinhonduras.net/places/pico-bonito/content/small/",
+    "http://madeinhonduras.net/places/pico-bonito/content/tiny-flower/",
+    "http://madeinhonduras.net/places/pico-bonito/content/waterfall-in-pico-bonito/",
+    "http://madeinhonduras.net/places/pico-bonito/content/waterfall-in-pico-bonito-1/",
+    "http://madeinhonduras.net/places/pico-bonito/content/waterfall-in-pico-bonito-2/",
+    "http://madeinhonduras.net/places/pico-bonito/content/waterfall-in-pico-bonito-3/",
+    "http://madeinhonduras.net/places/pico-bonito/content/a-big-and-long-tree/",
+    "http://madeinhonduras.net/places/pico-bonito/content/beautiful/",
+    "http://madeinhonduras.net/places/pico-bonito/content/a-beautiful-butterfly/",
+    "http://madeinhonduras.net/places/pico-bonito/content/small-frog/",
+    "http://madeinhonduras.net/places/pico-bonito/content/frog/",
+    "http://madeinhonduras.net/places/pico-bonito/content/big-leaf/",
+    "http://madeinhonduras.net/places/pico-bonito/content/pico-bonito-path/",
+    "http://madeinhonduras.net/places/pico-bonito/content/big-trees-fighting-for-the-sun-in-the-cloud-forest/",
+    "http://madeinhonduras.net/places/pico-bonito/content/bird-of-paradise-plant/",
+    "http://madeinhonduras.net/places/pico-bonito/content/at-the-entrance-of/",
+    "http://madeinhonduras.net/places/pico-bonito/content/pineapple-fields-around-pico-bonito/",
+    "http://madeinhonduras.net/places/utila/",
+    "http://madeinhonduras.net/places/utila/content/view-of/",
+    "http://madeinhonduras.net/places/utila/content/main-street-in-utila/",
+    "http://madeinhonduras.net/places/utila/content/there/",
+    "http://madeinhonduras.net/places/utila/content/incredible-sunset-in-utila/",
+    "http://madeinhonduras.net/places/utila/content/chepes-beach/",
+    "http://madeinhonduras.net/places/utila/content/chepes-beach-1/",
+    "http://madeinhonduras.net/places/utila/content/small-private-island-around-utila/",
+    "http://madeinhonduras.net/places/utila/content/bando-beach/",
+    "http://madeinhonduras.net/places/utila/content/utila-sunset/",
+    "http://madeinhonduras.net/places/utila/content/mayan-princess-pool/",
+    "http://madeinhonduras.net/places/utila/content/rubis-inn/",
+    "http://madeinhonduras.net/places/utila/content/cottage-in-rubis-inn/",
+    "http://madeinhonduras.net/places/utila/content/the/",
+    "http://madeinhonduras.net/places/utila/content/the-unbelievable-jade-seahorse-hotel/",
+    "http://madeinhonduras.net/places/utila/content/the-unbelievable-jade-seahorse-hotel-1/",
+    "http://madeinhonduras.net/places/utila/content/lighthouse-hotel-with-its-aweseome-views/",
+    "http://madeinhonduras.net/places/utila/content/utila-dive-center-dock/",
+    "http://madeinhonduras.net/places/utila/content/utila-dive-center-dock-1/",
+    "http://madeinhonduras.net/places/utila/content/utila-dive-center-dock-2/",
+    "http://madeinhonduras.net/places/utila/content/waiting-to-eat-some-baleadas/",
+    "http://madeinhonduras.net/places/utila/content/tranquilas-bardock/",
+    "http://madeinhonduras.net/places/utila/content/tranquila-bars-dock/",
+    "http://madeinhonduras.net/places/utila/content/bundu-cafe/",
+    "http://madeinhonduras.net/places/utila/content/water-cay/",
+    "http://madeinhonduras.net/places/utila/content/water-cay-a-cay-near-utila/",
+    "http://madeinhonduras.net/places/utila/content/sunjam-in-water-cay/",
+    "http://madeinhonduras.net/places/utila/content/sunjam-music-festival-in-water-cay/",
+    "http://madeinhonduras.net/places/utila/content/biking-around-utila/",
+    "http://madeinhonduras.net/places/utila/content/view-of-northern-utila/",
+    "http://madeinhonduras.net/places/utila/content/a-road-of-northern-utila/",
+    "http://madeinhonduras.net/places/utila/content/utila-girl/",
+    "http://madeinhonduras.net/places/utila/content/utila-woman/",
+    "http://madeinhonduras.net/places/utila/content/parrot-in-bando-beach/",
+    "http://madeinhonduras.net/places/utila/content/lizard/",
+    "http://madeinhonduras.net/places/utila/content/small-crab-in-bando-beach/",
+    "http://madeinhonduras.net/places/utila/content/coral-rocks/",
+    "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/",
+    "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/cottage-in-finca-las-glorias/",
+    "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/a-big-grasshopper/",
+    "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/view-of-yojoa-lake/",
+    "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/a-great-place-to-relax/",
+    "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/view-of-yojoa-lake-1/",
+    "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/pulhapanzak-falls/",
+    "http://madeinhonduras.net/places/yojoa-lake-and-pulhapanzak/content/canopy/",
+    "http://madeinhonduras.net/places/la-ceiba/",
+    "http://madeinhonduras.net/places/la-ceiba/content/view-of-la-ceiba/",
+    "http://madeinhonduras.net/places/la-ceiba/content/view-of-la-ceiba-1/",
+    "http://madeinhonduras.net/places/la-ceiba/content/estero-la-ceiba/",
+    "http://madeinhonduras.net/places/la-ceiba/content/street-vendor-selling-avocados/",
+    "http://madeinhonduras.net/places/la-ceiba/content/rainbow-in-a/",
+    "http://madeinhonduras.net/places/la-ceiba/content/machuca-soup/",
+    "http://madeinhonduras.net/places/la-ceiba/content/corozal-boy/",
+    "http://madeinhonduras.net/places/la-ceiba/content/machuca-soup-corozal/",
+    "http://madeinhonduras.net/places/la-ceiba/content/typical-bus-of-la-ceiba/",
+    "http://madeinhonduras.net/places/la-ceiba/content/pico-bonito-and/",
+    "http://madeinhonduras.net/places/la-ceiba/content/rafting-in-cangrejal-river/",
+    "http://madeinhonduras.net/places/la-ceiba/content/rafting-in-cangrejal-river-1/",
+    "http://madeinhonduras.net/places/la-ceiba/content/jumping-over-cangrejal-river/",
+    "http://madeinhonduras.net/places/la-ceiba/content/small-watefall/",
+    "http://madeinhonduras.net/places/la-ceiba/content/small-waterfall-close-to-cangrejal-river/",
+    "http://madeinhonduras.net/places/la-ceiba/content/cangrejal-river/",
+    "http://madeinhonduras.net/places/la-ceiba/content/lying-before/",
+    "http://madeinhonduras.net/places/la-ceiba/content/canopy-in-glendas-paradise/",
+    "http://madeinhonduras.net/places/la-ceiba/content/beautiful-bird-in-cacao-lagoon/",
+    "http://madeinhonduras.net/places/la-ceiba/content/howler-monkey-in-cacao-lagoon/",
+    "http://madeinhonduras.net/places/la-ceiba/content/kayaking-in-howler-monkey-in-cacao-lagoon/",
+    "http://madeinhonduras.net/places/la-ceiba/content/cacao-lagoon/",
+    "http://madeinhonduras.net/places/la-ceiba/content/howler-monkey-in-cacao-lagoon-1/",
+    "http://madeinhonduras.net/places/la-ceiba/content/bats-in-cacao-lagoon/",
+    "http://madeinhonduras.net/places/la-ceiba/content/view-of-cacao-lagoon-close-to-the-caribbean-sea/",
+    "http://madeinhonduras.net/places/la-ceiba/content/unspoiled-beach-close/",
+    "http://madeinhonduras.net/places/la-ceiba/content/howler-monkey-in-cacao-lagoon-2/",
+    "http://madeinhonduras.net/places/la-ceiba/content/howler-monkey-in-cacao-lagoon-3/",
+    "http://madeinhonduras.net/places/copan/",
+    "http://madeinhonduras.net/places/copan/content/copan-ruinas-village/",
+    "http://madeinhonduras.net/places/copan/content/road-of-copan-ruinas-village/",
+    "http://madeinhonduras.net/places/copan/content/mayan-ruins-of-copan/",
+    "http://madeinhonduras.net/places/copan/content/simian-sculptures-possibly/",
+    "http://madeinhonduras.net/places/copan/content/stela-n-copan/",
+    "http://madeinhonduras.net/places/copan/content/hieroglyphic-stairway/",
+    "http://madeinhonduras.net/places/copan/content/stela-p-depicting-kak-chan-yopaat/",
+    "http://madeinhonduras.net/places/copan/content/the-west-court-of-copan/",
+    "http://madeinhonduras.net/places/copan/content/the-west-court-of-copan-1/",
+    "http://madeinhonduras.net/places/copan/content/main-group-of-copan/",
+    "http://madeinhonduras.net/places/copan/content/main-group-of-copan-1/",
+    "http://madeinhonduras.net/places/copan/content/main-group-of-copan-2/",
+    "http://madeinhonduras.net/places/copan/content/ballcourt-of-copan/",
+    "http://madeinhonduras.net/places/copan/content/detail-in-main-group/",
+    "http://madeinhonduras.net/places/copan/content/mayan-girl/",
+    "http://madeinhonduras.net/places/copan/content/mayan-girls/",
+    "http://madeinhonduras.net/places/copan/content/mayan-boy-selling-typical-handmade-dolls/",
+    "http://madeinhonduras.net/places/copan/content/mayan-boy/",
+    "http://madeinhonduras.net/places/cuero-y-salado/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/train-tracks/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/a-child-inside-the-wildlife-refuge/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/main-building-of-the/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/view-of-the-river/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/view-of-the-river-1/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/incredible-mirror-like-landscape/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/howler-monkey/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/bats/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/mangrove/",
+    "http://madeinhonduras.net/places/cuero-y-salado/content/mangroves/",
+    "http://madeinhonduras.net/places/punta-sal/",
+    "http://madeinhonduras.net/places/punta-sal/content/view-of-tela/",
+    "http://madeinhonduras.net/places/punta-sal/content/view-of-tela-1/",
+    "http://madeinhonduras.net/places/punta-sal/content/view-of-tela-2/",
+    "http://madeinhonduras.net/places/punta-sal/content/sunset-in-tela/",
+    "http://madeinhonduras.net/places/punta-sal/content/view-of-tela-3/",
+    "http://madeinhonduras.net/places/punta-sal/content/lagoon-in-the/",
+    "http://madeinhonduras.net/places/punta-sal/content/howler-monkeys/",
+    "http://madeinhonduras.net/places/punta-sal/content/unspoiled-beach/",
+    "http://madeinhonduras.net/places/punta-sal/content/amazing-rock-formations/",
+    "http://madeinhonduras.net/places/punta-sal/content/pelicans/",
+    "http://madeinhonduras.net/places/punta-sal/content/birds/",
+    "http://madeinhonduras.net/places/punta-sal/content/huge-rock-formations/",
+    "http://madeinhonduras.net/places/punta-sal/content/unspoiled-beach-1/",
+    "http://madeinhonduras.net/places/punta-sal/content/unspoiled-beach-2/",
+    "http://madeinhonduras.net/content/",
+    "http://madeinhonduras.net/content/page/2/",
+    "http://madeinhonduras.net/content/mg-2702/",
+    "http://madeinhonduras.net/content/mg-1286/",
+    "http://madeinhonduras.net/pages/why/",
+    "http://madeinhonduras.net/pages/who/"
+  ],
+  "missingAssets": [
+    {
+      "slug": "mg-2702",
+      "id": "000076",
+      "title": "MG-2702.jpg",
+      "reason": "Koken reports zero dimensions; advertised medium, large and huge derivatives return HTTP 404.",
+      "checkedAt": "2026-10-04",
+      "publicPage": "http://madeinhonduras.net/content/mg-2702/"
+    },
+    {
+      "slug": "mg-1286",
+      "id": "000064",
+      "title": "MG-1286.JPG",
+      "reason": "Koken reports zero dimensions; advertised medium, large and huge derivatives return HTTP 404.",
+      "checkedAt": "2026-10-04",
+      "publicPage": "http://madeinhonduras.net/content/mg-1286/"
+    }
+  ]
+}
