@@ -21,10 +21,10 @@ npm run build
 npm run preview
 ```
 
-Preview is at `http://127.0.0.1:4173`. The deployable directory is `out/`. To run desktop and mobile browser tests:
+Preview is at `http://127.0.0.1:4173`. The deployable directory is `out/`. To run desktop Chromium and mobile Chromium/WebKit browser tests:
 
 ```sh
-npx playwright install chromium
+npx playwright install chromium webkit
 npm run test:e2e
 ```
 
@@ -80,6 +80,6 @@ The owner confirmed this is a personal photography archive, which fits Hobby's p
 
 ## Implementation
 
-Next.js App Router with `output: 'export'`, TypeScript, React Photo Album's server-rendered justified rows, PhotoSwipe loaded on demand, sanitized Markdown, Sharp for offline images and locally hosted PT Sans. The original site used PT Sans too. Browser history and direct legacy photo routes are supported; JavaScript only enhances browsing.
+Next.js App Router with `output: 'export'`, TypeScript, Tailwind CSS, React Photo Album's server-rendered justified rows, PhotoSwipe loaded on demand, sanitized Markdown and Sharp for offline images. Locally hosted Bricolage Grotesque headings pair with the original PT Sans for reading. The pocket-album design has mobile bottom navigation, compact photo rows, and a full-screen viewer with a thumbnail strip, swipe navigation, pinch zoom and vertical dismissal. Browser history and direct legacy photo routes are supported; JavaScript only enhances browsing. Custom CSS is limited to base styles and generated PhotoSwipe controls.
 
 See [design notes](docs/DESIGN.md), [migration inventory and route map](docs/MIGRATION.md), and [verification evidence](docs/VERIFICATION.md). All photos remain copyright Marcio Barrios. This repository grants no license to reuse them.

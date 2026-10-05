@@ -35,6 +35,8 @@ export function GalleryViewer({
       opening = import("photoswipe/lightbox").then(({ default: Lightbox }) => {
         if (cancelled) return;
         const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+        const safeArea = getComputedStyle(document.documentElement);
+        const inset = (side: string) => parseFloat(safeArea.getPropertyValue(`--safe-${side}`)) || 0;
         lightbox = new Lightbox({
           dataSource: photos.map((p) => ({
             src: p.src,
@@ -48,7 +50,19 @@ export function GalleryViewer({
           showHideAnimationType: reduced ? "none" : "fade",
           showAnimationDuration: reduced ? 0 : 180,
           hideAnimationDuration: reduced ? 0 : 160,
-          padding: { top: 64, bottom: 126, left: 24, right: 24 },
+          zoomAnimationDuration: reduced ? 0 : 220,
+          paddingFn: ({ x, y }) => ({
+            top: (y < 500 ? 58 : 76) + inset("top"),
+            bottom: (y < 500 ? 80 : x < 640 ? 238 : 202) + inset("bottom"),
+            left: (x < 640 ? 0 : 72) + inset("left"),
+            right: (x < 640 ? 0 : 72) + inset("right"),
+          }),
+          spacing: 0.08,
+          preload: [1, 2],
+          closeOnVerticalDrag: true,
+          pinchToClose: true,
+          tapAction: false,
+          indexIndicatorSep: " of ",
           loop: false,
           returnFocus: true,
           trapFocus: true,
@@ -76,6 +90,45 @@ export function GalleryViewer({
                 link.textContent = "Photo page";
                 el.replaceChildren(title, caption, link);
               });
+            },
+          });
+          lightbox!.pswp!.ui!.registerElement({
+            name: "filmstrip",
+            order: 10,
+            isButton: false,
+            appendTo: "root",
+            onInit: (el, pswp) => {
+              el.setAttribute("role", "group");
+              el.setAttribute("aria-label", "Choose a photograph");
+              const buttons = photos.map((photo, index) => {
+                const button = document.createElement("button");
+                button.type = "button";
+                button.className = "pswp__thumbnail";
+                button.setAttribute("aria-label", `Photo ${index + 1}: ${photo.title}`);
+                const thumbnail = document.createElement("img");
+                thumbnail.src = photo.srcSet[0].src;
+                thumbnail.alt = "";
+                thumbnail.width = 38;
+                thumbnail.height = 38;
+                thumbnail.loading = "lazy";
+                thumbnail.decoding = "async";
+                button.append(thumbnail);
+                button.addEventListener("click", () => pswp.goTo(index));
+                button.addEventListener("focus", () => button.scrollIntoView({ block: "nearest", inline: "nearest" }));
+                el.append(button);
+                return button;
+              });
+              const update = () => {
+                buttons.forEach((button, index) => {
+                  if (index === pswp.currIndex) button.setAttribute("aria-current", "true");
+                  else button.removeAttribute("aria-current");
+                });
+                const current = buttons[pswp.currIndex];
+                el.scrollTo({ left: current.offsetLeft - el.clientWidth / 2 + current.clientWidth / 2, behavior: "instant" });
+              };
+              pswp.on("change", update);
+              pswp.on("afterInit", update);
+              pswp.on("resize", update);
             },
           });
         });
@@ -139,7 +192,10 @@ export function GalleryViewer({
         return;
       event.preventDefault();
       anchor.focus();
-      void open(Number(anchor.dataset.photoIndex));
+      void open(Number(anchor.dataset.photoIndex)).catch(() => {
+        // A failed optional viewer chunk must not strand a working photo link.
+        if (!cancelled) location.assign(anchor.href);
+      });
     }
     function pop() {
       const slug = hashSlug();
