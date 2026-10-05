@@ -1,5 +1,21 @@
 # Verification
 
+## Pocket-album redesign (2026-10-05)
+
+Verified against the actual exported `out/` directory on the latest `main`, using Node.js 22.21.1:
+
+- `npm run check`: ESLint, TypeScript and all five content/image tests passed.
+- `npm run build`: 747 generated entries; postbuild confirmed all 742 content routes and 14,495 rendered local image references. The sandboxed CSS worker stalled; the normal Turbopack build passed with local process permissions.
+- `npm run test:e2e`: 27 passed, three intentionally skipped across desktop Chromium, iPhone 13 Chromium emulation and iPhone 13 WebKit emulation. The skips are two mobile-only cases on desktop and the CDP multi-touch case on WebKit.
+- New coverage: selected thumbnail/caption/URL synchronization, 320px navigation and 44px targets, two-photo mobile rows, emulated touch swiping, two-finger pinch zoom, drag-to-dismiss, reduced motion and short landscape controls. Existing history, keyboard, focus, no-JavaScript, all-album and compatibility checks remain passing.
+- Axe found no violations on home, Roatan, Why, Who and the open viewer in each of the three browser projects. An initial contrast finding on inactive desktop navigation was corrected.
+- Desktop and mobile visual review covered the home, album and full-screen viewer. Current local screenshots are kept in ignored `.migration-cache/redesign/`; the committed preview images below record the earlier migration design.
+- All album content, photo assets, public slugs and the migration inventory are unchanged. The new font files are bundled locally. CI now installs Chromium and WebKit and runs the same suite.
+
+Physical iPhone Safari, its browser chrome/home-indicator behavior, and real-device gesture performance have not been tested. Multi-touch was exercised using Chromium's emulated input; the WebKit suite covers layout and interaction controls, not physical touch hardware. Nothing was deployed.
+
+## Original migration verification (2026-10-04)
+
 Checked locally on 2026-10-04 against the production static export. The browser suite runs again on GitHub Actions after every push; see [workflow runs](https://github.com/marciobarrios/madeinhonduras-next/actions).
 
 The first Vercel import completed the Next.js build but failed with `NEXT_NO_ROUTES_MANIFEST`: the `out` override made the Next.js builder look in the static export for its `.next/routes-manifest.json`. The override was removed from `vercel.json` and cleared in project settings; the Next.js preset and `output: "export"` remain. Node.js is pinned to 22.x in both the package and project settings. Deployment results are available in the [project dashboard](https://vercel.com/marcio-barrios-projects/madeinhonduras-next). See Vercel’s [framework build settings](https://vercel.com/docs/builds/configure-a-build#output-directory).

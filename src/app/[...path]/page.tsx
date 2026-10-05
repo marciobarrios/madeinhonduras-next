@@ -5,6 +5,9 @@ import { notFound } from "next/navigation";
 import { SiteHeader } from "@/components/site-header";
 import { AlbumGallery } from "@/components/album-gallery";
 import { GalleryViewer } from "@/components/gallery-viewer";
+import { Icon, shell, heading, prose, backLink, textLink } from "@/components/ui";
+
+const albumBottom = "mt-12 flex items-start justify-between gap-6 border-t border-ink/10 pt-6 text-base [&_a]:inline-flex [&_a]:min-h-11 [&_a]:items-center [&_a]:gap-2 [&_a]:text-ocean [&_a:last-child]:text-right";
 import {
   routes,
   content,
@@ -77,15 +80,15 @@ export default async function ContentPage({
     return (
       <>
         <SiteHeader active={page.title} />
-        <main id="main" className="site-main text-page">
-          <h1>{page.title}</h1>
+        <main id="main" className={`${shell} pt-8 sm:pt-14 !max-w-[820px]`}>
+          <h1 className={`${heading} mb-8 text-5xl text-ocean sm:text-7xl`}>{page.title}</h1>
           <div
-            className="prose"
+            className={prose}
             dangerouslySetInnerHTML={{ __html: page.html }}
           />
           {img ? (
             <Image
-              className="portrait"
+              className="mt-9 w-full rounded-2xl"
               src={img.src}
               alt="Marcio Barrios in Beijing"
               width={img.width}
@@ -93,7 +96,7 @@ export default async function ContentPage({
               sizes="(max-width: 800px) calc(100vw - 32px), 740px"
             />
           ) : null}
-          <Link className="text-link" href="/">
+          <Link className={`${textLink} mt-8`} href="/">
             Explore the places
           </Link>
         </main>
@@ -106,21 +109,21 @@ export default async function ContentPage({
     return (
       <>
         <SiteHeader />
-        <main id="main" className="site-main album-page">
-          <Link className="back-link" href="/">
-            All places
+        <main id="main" className={`${shell} pt-5 sm:pt-8`}>
+          <Link className={backLink} href="/">
+            <Icon name="left" className="size-4" /> All places
           </Link>
-          <div className="album-intro">
+          <div className="grid gap-5 pt-6 pb-8 sm:grid-cols-2 sm:gap-12 sm:pt-9 sm:pb-12">
             <div>
-              <h1>All photographs</h1>
-              <p className="photo-count">
+              <h1 className={`${heading} text-4xl sm:text-6xl`}>All photographs</h1>
+              <p className="photo-count mt-4 text-sm text-slate tabular-nums">
                 {content.photos.length} photographs · Page {current} of{" "}
                 {Math.ceil(content.photos.length / 100)}
               </p>
             </div>
           </div>
           <AlbumGallery photos={viewerPhotos(undefined, slugs)} />
-          <div className="album-bottom">
+          <div className={albumBottom}>
             {current > 1 ? (
               <Link href="/content/">Previous page</Link>
             ) : (
@@ -143,30 +146,30 @@ export default async function ContentPage({
     return (
       <>
         <SiteHeader />
-        <main id="main" className="site-main album-page">
-          <Link className="back-link" href="/">
-            All places
+        <main id="main" className={`${shell} pt-5 sm:pt-8`}>
+          <Link className={backLink} href="/">
+            <Icon name="left" className="size-4" /> All places
           </Link>
-          <div className="album-intro">
+          <div className="grid gap-5 pt-6 pb-8 sm:grid-cols-2 sm:gap-12 sm:pt-9 sm:pb-12">
             <div>
-              <h1>{album.title}</h1>
-              <p className="photo-count">{album.photos.length} photographs</p>
+              <h1 className={`${heading} max-w-[18ch] text-[40px] text-ocean sm:text-[60px]`}>{album.title}</h1>
+              <p className="photo-count mt-4 text-sm text-slate tabular-nums">{album.photos.length} photographs</p>
             </div>
-            <div className="album-description">
+            <div className="max-w-[54ch] text-base leading-relaxed text-slate sm:pt-1 sm:text-lg">
               <p>{album.summary}</p>
-              <details>
-                <summary>About this place</summary>
+              <details className="mt-2 [&[open]_summary]:mb-4">
+                <summary className="w-fit min-h-11 cursor-pointer py-2 text-sm text-ocean underline decoration-ocean/30 underline-offset-4">About this place</summary>
                 <div
-                  className="prose"
+                  className={prose}
                   dangerouslySetInnerHTML={{ __html: album.html }}
                 />
               </details>
             </div>
           </div>
           <AlbumGallery photos={viewerPhotos(album)} />
-          <div className="album-bottom">
-            <Link href="/">All places</Link>
-            <Link href={albumUrl(next)}>Next place: {next.title}</Link>
+          <div className={albumBottom}>
+            <Link href="/"><Icon name="left" className="size-4 shrink-0" /> All places</Link>
+            <Link href={albumUrl(next)}>Next place: {next.title} <Icon name="right" className="size-4 shrink-0" /></Link>
           </div>
         </main>
       </>
@@ -180,8 +183,8 @@ export default async function ContentPage({
   return (
     <>
       <SiteHeader />
-      <main id="main" className="site-main photo-page">
-        <div className="photo-nav">
+      <main id="main" className={`${shell} pt-6 !max-w-[1200px]`}>
+        <div className="mb-6 flex items-center justify-between gap-4 text-sm text-slate tabular-nums [&_a]:inline-flex [&_a]:min-h-11 [&_a]:items-center [&_a]:text-ocean">
           <Link href={album ? albumUrl(album) : "/content/"}>
             Back to {album?.title ?? "all photographs"}
           </Link>
@@ -194,7 +197,7 @@ export default async function ContentPage({
           initialSlug={entry.lightbox ? photo.slug : undefined}
         >
           <a
-            className="single-photo"
+            className="single-photo block overflow-hidden rounded-xl bg-sky [&_img]:mx-auto [&_img]:max-h-[76vh] [&_img]:w-auto [&_img]:object-contain"
             href={`${photoUrl(photo, album)}lightbox/`}
             data-photo-index={index}
             aria-label={`View ${photo.title} in full screen`}
@@ -209,19 +212,19 @@ export default async function ContentPage({
             />
           </a>
         </GalleryViewer>
-        <div className="photo-details">
+        <div className="flex flex-col justify-between gap-4 pt-7 sm:flex-row sm:gap-8">
           <div>
-            <h1>{photo.title}</h1>
+            <h1 className={`${heading} mb-3 text-3xl`}>{photo.title}</h1>
             <div
-              className="prose"
+              className={prose}
               dangerouslySetInnerHTML={{ __html: photo.html }}
             />
           </div>
           {photo.exif.length ? (
-            <p className="exif">{photo.exif.join(" · ")}</p>
+            <p className="pt-2 text-sm text-slate sm:text-right">{photo.exif.join(" · ")}</p>
           ) : null}
         </div>
-        <nav className="album-bottom" aria-label="Photo navigation">
+        <nav className={albumBottom} aria-label="Photo navigation">
           {index > 0 ? (
             <Link href={photoUrl(photoMap.get(slugs[index - 1])!, album)}>
               Previous photograph
